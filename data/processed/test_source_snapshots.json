@@ -1,0 +1,9 @@
+{
+  "S039": {
+    "source_url": "https://example.gov/s039",
+    "last_checked": "2026-09-12T06:07:16.649339+00:00",
+    "content_hash": "9e1f746a00d263556560cf270c848febb722eb9ef80ad4b92bd809786b4c57bd",
+    "local_file": "data\\raw\\test_sources\\S039.html",
+    "changed": true
+  }
+}

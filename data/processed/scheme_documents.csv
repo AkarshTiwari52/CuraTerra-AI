@@ -1,0 +1,407 @@
+﻿scheme_id,document_id,condition_or_section,document
+S001,S001-D001,,Documents/details for Training sponsoring agency:***
+S001,S001-D002,,Proof of NGOs registered in the Darpan Portal of NITI Aayog
+S001,S001-D003,,Details of the source of raw material for training
+S001,S001-D004,,Details of power connection
+S001,S001-D005,,Details of availability of machinery for training
+S001,S001-D006,,Details of the mode of acquiring the basic Infrastructure
+S001,S001-D007,,"Any other document, as required"
+S001,S001-D008,,Documents/details for candidate/trainee:***
+S001,S001-D009,,ID proof (Election ID Card/Ration Card/Aadhaar Card / PAN Card)
+S001,S001-D010,,Proof of address
+S001,S001-D011,,Bank account details
+S001,S001-D012,,Recent passport-size photographs (two copies)
+S001,S001-D013,,"Caste Certificate, if applicable"
+S001,S001-D014,,"Disability certificate, if applicable"
+S001,S001-D015,,"Any other document, as required"
+S002,S002-D001,,Applicant Photograph Passport Size (PNG).
+S002,S002-D002,,Aadhaar Card PDF (Both Sides).
+S002,S002-D003,,Domicile Certificate (PDF).
+S002,S002-D004,,Proposed Project Proposal (PDF).
+S002,S002-D005,,Proof of Concept or early-stage revenue generation of products/services to upscale their ventures further.
+S003,S003-D001,,1\.	Identity proof worker i.e. Aadhaar Card
+S003,S003-D002,,2\.	Passport-size photograph
+S003,S003-D003,,3\.	Skill-upgradation training certificate
+S003,S003-D004,,4\.	Proof of residence
+S003,S003-D005,,5\.	Ration card
+S003,S003-D006,,6\.	Bank account details/copy of bank passbook
+S003,S003-D007,,7\.	Caste Certificate (If applicable)
+S003,S003-D008,,8\.	Undertaking/declaration
+S003,S003-D009,,9\.	Any other documents as required
+S004,S004-D001,,Proof of Identity
+S004,S004-D002,,Proof of Residence
+S004,S004-D003,,Proof of Age
+S004,S004-D004,,Marksheet of Class 8th or Higher Educational Qualification
+S004,S004-D005,,Aadhaar Card
+S004,S004-D006,,Passport Sized Photograph
+S004,S004-D007,,Bank Details
+S004,S004-D008,,Documents to be Submitted after the Completion of the Course***
+S004,S004-D009,,"1\. To know the pragmatic outcome of the training, the trainees will have to submit evidence in the form of documents like Bank Loan / MUDRA Loan / e-wallet Receipts / Licenses / Registration, etc."
+S004,S004-D010,,"2\. The views of the trainees on the content and delivery of the courses under “EP” should be obtained in a written feedback form to be designed by the NCHMCT. After completion of training, a WhatsApp group of trainees should be created by the Implementing Agencies for the purpose of tracking and monitoring of trainees."
+S004,S004-D011,,Documents to be Submitted by the Implementing Agency***
+S004,S004-D012,,"1\. Each Implementing Agency will upload, on the 10th and concluding day of the training course, a video clipping/a clear photograph showing the class with trainees wearing their Aprons and with their respective tool kits on the e-mail address of the Programme Monitoring Unit (Skill Development) (pmuhsrt\@gmail.com)."
+S004,S004-D013,,"2\. After the conclusion of the training of every batch, each Implementing Agency will ensure that the list of the pass-outs along with their full contact details like address, telephone number, Mobile numbers (excluding female trainees), etc., and their employment and salary status is posted on their website."
+S005,S005-D001,,Company Registration & Eligibility
+S005,S005-D002,,Certificate of Incorporation under Companies Act or MSME Registration (Udyam Certificate).
+S005,S005-D003,,"IEM (Industrial Entrepreneur Memorandum), if applicable."
+S005,S005-D004,,Registration with State Textile Department (if required).
+S005,S005-D005,,Machinery Details
+S005,S005-D006,,Purchase invoice(s) of benchmarked machinery (must show commercial invoice date).
+S005,S005-D007,,"Proof of payment for machinery (bank statement, payment receipt)."
+S005,S005-D008,,Machinery should bear the Machine Identification Code (MIC) issued by Textile Commissioner.
+S005,S005-D009,,Manufacturer’s authorization certificate (if purchased via authorized agent or stockist).
+S005,S005-D010,,Installation certificate or commissioning report.
+S005,S005-D011,,Loan-Related Documents
+S005,S005-D012,,Sanction letter of term loan from a notified lending agency.
+S005,S005-D013,,Proof of disbursement of the term loan.
+S005,S005-D014,,Undertaking that machinery was purchased after loan sanction.
+S005,S005-D015,,Term loan account statement from the lending agency.
+S005,S005-D016,,UID and i-TUFS Portal
+S005,S005-D017,,Application form submitted through i-TUFS portal: [https://itufs.texmin.gov.in](https://itufs.texmin.gov.in).
+S005,S005-D018,,All eligible machinery must be registered and allotted a Unique Identification Number (UID).
+S005,S005-D019,,Joint Inspection Documents
+S005,S005-D020,,Request for Joint Inspection Team (JIT) visit after installation.
+S005,S005-D021,,Complete set of machinery photographs (with MIC visible).
+S005,S005-D022,,JIT verification report (to be filled by the inspection team).
+S005,S005-D023,,Declarations and Undertakings
+S005,S005-D024,,Declaration that machinery is new and unused.
+S005,S005-D025,,Declaration that no benefit is being claimed under any other Central Government scheme for the same machinery.
+S005,S005-D026,,"Any other prescribed declaration format (e.g., Annexure-A for prior term loans, Annexure-B for merged companies)."
+S006,S006-D001,,Aadhaar Card
+S006,S006-D002,,Residential Certificate / Domicile Certificate
+S006,S006-D003,,Proof of Identity
+S006,S006-D004,,Proof of Age / Date of Birth
+S006,S006-D005,,SHRAM Card / Proof of Registration
+S006,S006-D006,,Passport Sized Photograph
+S006,S006-D007,,Details of the Bank Account
+S006,S006-D008,,Income Certificate
+S006,S006-D009,,Receipt of the Purchase of a branded helmet and a pair of safety shoes.
+S007,S007-D001,,1\. Copy of the beneficiary registration identity card.
+S007,S007-D002,,2\. Copy of the beneficiary Aadhaar card and Jan Aadhaar card.
+S007,S007-D003,,"3\. The first page of the beneficiary savings bank account passbook (which contains the name of the candidate, bank account number and IFS code to be mentioned)."
+S007,S007-D004,,4\. Copy of passport with visa.
+S007,S007-D005,,5\. Copy of the employment contract issued by the foreign employer.
+S007,S007-D006,,6\. Proof of amount deposited for Visa / Invoice / Invoice.
+S007,S007-D007,,7\. Registration number of the recruiting agent and copy of the advertisement given for overseas employment.
+S008,S008-D001,,Passport Sized Photograph
+S008,S008-D002,,Aadhaar Card
+S008,S008-D003,,Proof of Identity
+S008,S008-D004,,Proof of Address / Domicile Certificate
+S008,S008-D005,,Detail proposal with an estimated cost
+S008,S008-D006,,List of Artistes
+S008,S008-D007,,Bank Account Detail (for Individual / Registered group)
+S008,S008-D008,,Last 3 years’ Audited Statement of Accounts (for the group)
+S008,S008-D009,,Utilization Certificate of previous grants / financial assistance
+S008,S008-D010,,Detailed Report of the Remarkable Productions with supporting documents that qualify the group to apply for CMAT.
+S008,S008-D011,,Bio Data (for the individual artiste) or Activities Report (for the group) with relevant supporting documents/certificates
+S008,S008-D012,,Registration Certificate for groups
+S009,S009-D001,,Aadhar Card
+S009,S009-D002,,10th Pass Certificate
+S009,S009-D003,,Registered Mobile number
+S009,S009-D004,,Bank details of the beneficiary
+S009,S009-D005,,Domicile Certificate
+S010,S010-D001,,"Identity proof i.e. Aadhaar Card, Voter ID Card"
+S010,S010-D002,,Income Proof Certificate
+S010,S010-D003,,Below Poverty Line Card (If applicable)
+S010,S010-D004,,Residence proof
+S010,S010-D005,,Caste Certificate
+S010,S010-D006,,Disability Certificate from Competent Authority (only for PWDs) (if applicable)
+S010,S010-D007,,Barcoded Ration Card (if applicable)
+S010,S010-D008,,Savings Account Bank Passbook or Cancelled Check (if applicable)
+S011,S011-D001,,Aadhaar card
+S011,S011-D002,,Valid Personal Email ID
+S011,S011-D003,,Mobile number
+S011,S011-D004,,"Passport size photograph (Format: JPEG, Size: Less than 1 MB)"
+S011,S011-D005,,Aadhaar seeded/mapped Bank account details
+S011,S011-D006,,"Qualifying Degree / Provisional Certificate (Format: PDF, Size: Less than 1 MB)"
+S011,S011-D007,,"First page of Bank passbook / Bank account statement (Format: PDF, Size: Less than 1 MB)"
+S012,S012-D001,,Aadhaar Card.
+S012,S012-D002,,Voter ID.
+S012,S012-D003,,Address Proof.
+S012,S012-D004,,Ration Card.
+S012,S012-D005,,Age Proof.
+S012,S012-D006,,Disability Certificate.
+S013,S013-D001,,Copy of beneficiary's registration identity card.
+S013,S013-D002,,"Bank passbook front page copy (Account holder name, Account No, IFSC code)."
+S013,S013-D003,,Aadhaar Card or Copy of Bhamashah Card (Optional).
+S013,S013-D004,,Beneficiary's daughter's birth certificate.
+S013,S013-D005,,8th class mark sheet (Issued by the private school recognized by the state or state government).
+S013,S013-D006,,Passport size photo.
+S014,S014-D001,,Aadhaar Card.
+S014,S014-D002,,Applicant's Passport-sized Photo.
+S014,S014-D003,,"Residence-cum-Nativity Certificate, issued by the competent authority."
+S014,S014-D004,,Age Proof.
+S014,S014-D005,,Educational Certificates/Marksheets.
+S015,S015-D001,,Documents required for registration under A&N Islands Building & Other Construction Workers Welfare Board:***
+S015,S015-D002,,Passport size photograph
+S015,S015-D003,,Proof of age
+S015,S015-D004,,Identity proof
+S015,S015-D005,,"Details of EPF, if any"
+S015,S015-D006,,Proof of address
+S015,S015-D007,,90 Days Work Duration Certificate issued by the competent authority
+S015,S015-D008,,Bank account details
+S015,S015-D009,,Any other document as required
+S015,S015-D010,,Documents required for Skill Development Assistance Scheme:***
+S015,S015-D011,,Registration ID Card of Worker
+S015,S015-D012,,Identity proof of worker i.e. Aadhaar Card
+S015,S015-D013,,Latest Subscription Receipt
+S015,S015-D014,,Address proof
+S015,S015-D015,,Bank account details of worker/Copy of passbook
+S015,S015-D016,,Identity proof of Child (If applying for child)
+S015,S015-D017,,Course completion/pass-out certificate from ITI/VTC
+S015,S015-D018,,Any other document as required
+S016,S016-D001,,Last Subscription Bill.
+S016,S016-D002,,Board ID Card.
+S016,S016-D003,,Aadhaar Card.
+S016,S016-D004,,Ration Card.
+S016,S016-D005,,Bank Pass Book.
+S017,S017-D001,,"Identity card i.e. Aadhaar Card, Election ID/ Voter ID"
+S017,S017-D002,,Transgender ID card
+S017,S017-D003,,Transgender students who have not completed 18 years of age should produce self-declaration with attestation of parent/head of the institution
+S017,S017-D004,,Mobile number
+S017,S017-D005,,Email id
+S017,S017-D006,,Passport size photo
+S017,S017-D007,,Self-declaration Affidavit stating that the applicant in Transgender
+S017,S017-D008,,Bank details- Copy of Pass Book
+S017,S017-D009,,Educational Certificates/Course Certificate
+S017,S017-D010,,Certificate from Hostel Authority/Building Owner
+S017,S017-D011,,"Other documents, if any"
+S018,S018-D001,,Aadhaar Card.
+S018,S018-D002,,Voter ID.
+S018,S018-D003,,Address Proof.
+S018,S018-D004,,Ration Card.
+S018,S018-D005,,Age Proof.
+S018,S018-D006,,Disability Certificate.
+S019,S019-D001,,1\.	Identity proof worker i.e. Aadhaar Card
+S019,S019-D002,,2\.	Photo of the house being repaired with registered construction worker
+S019,S019-D003,,3\.	LPC issued by the Circle Officer as ownership certificate of the land
+S019,S019-D004,,4\.	Current receipt of the land
+S019,S019-D005,,5\.	Proof of residence
+S019,S019-D006,,6\.	Ration card
+S019,S019-D007,,7\.	Bank account details/copy of bank passbook
+S019,S019-D008,,8\.	Caste Certificate (If applicable)
+S019,S019-D009,,9\.	Undertaking/declaration
+S019,S019-D010,,10\.	Any other documents as required
+S020,S020-D001,,"To monitor the implementation of the scheme and ensure proper usage of the benefit, the Textile Commissioner shall call for any documents/information from the beneficiary as may be deemed necessary and cause inspection of the unit(s) as and when required."
+S021,S021-D001,,Aadhaar Card.
+S021,S021-D002,,Ration Card.
+S021,S021-D003,,"Residence-cum-nativity Certificate, Issued by the Competent Authority."
+S021,S021-D004,,Recent Passport-size Photograph.
+S021,S021-D005,,Bank Passbook.
+S021,S021-D006,,Caste Certificate.
+S021,S021-D007,,Disability Certificate / Medical Certificate.
+S021,S021-D008,,Financial Assistance Identity Card.
+S022,S022-D001,,For Fresh Application***
+S022,S022-D002,,"Nativity/Residence Certificate ([Form-II](https://py.gov.in/sites/default/files/citizens-charterinfopublicity.pdf)), issued by the Officer of the Revenue Department not below the rank of a Deputy Tahsildar;"
+S022,S022-D003,,Three stamp-sized photographs.
+S022,S022-D004,,"Service Certificate ([Form-II](https://py.gov.in/sites/default/files/citizens-charterinfopublicity.pdf)) showing the designation, the nature of the post (full-time or part-time), period of service, and the place of work from the former employer."
+S022,S022-D005,,For Renewal Application***
+S022,S022-D006,,An attested copy of the expired Bus Pass.
+S022,S022-D007,,One stamp-sized photograph.
+S023,S023-D001,,There are no document requirements for this scheme.
+S024,S024-D001,,Labour card.
+S024,S024-D002,,Any other documents as directed by the department.
+S025,S025-D001,,Caste Certificate
+S025,S025-D002,,Residential Certificate
+S025,S025-D003,,Matriculation Qualification Certificate
+S025,S025-D004,,Aadhaar Card
+S025,S025-D005,,Driving License
+S026,S026-D001,,"Identity proof (Aadhaar, PAN card, etc.)."
+S026,S026-D002,,Address proof.
+S026,S026-D003,,Proof of being a Small Road Transport Operator (if applicable).
+S026,S026-D004,,Any other documents (if required).
+S027,S027-D001,,For Fresh Proposals:***
+S027,S027-D002,,Proposal in prescribed proforma.
+S027,S027-D003,,Recommendation letter of Field office/Regional Office.
+S027,S027-D004,,Valid Registration Certificate.
+S027,S027-D005,,Article & Memorandum of Association.
+S027,S027-D006,,Bye-Laws.
+S027,S027-D007,,Three years Balance Sheet & audited statement of accounts.
+S027,S027-D008,,Annual Report of last Year.
+S027,S027-D009,,Affidavit in respect of Non-Corrupt Practice and validity of Registration.
+S027,S027-D010,,Land ownership document/ Lease agreement for the proposed project/Detailed Project Report.
+S027,S027-D011,,Feasibility report of the project to be certified by a scheduled commercial bank.
+S027,S027-D012,,Construction plan and cost estimate duly authenticated by Architect/ Chartered Engineer.
+S027,S027-D013,,Third-party assessment report from a recognized Chartered Engineer/ technical valuer for equipment/ machines to be installed
+S027,S027-D014,,"Undertaking that balance of the total cost to be borne by the implementing agency, along with escalated cost, if any."
+S027,S027-D015,,Any other documents mentioned in Proforma/ desired by the competent authority.
+S027,S027-D016,,NOTE 1:** All documents should be attested by Implementing Agency.
+S027,S027-D017,,NOTE 2:** The implementing agency will be required to sign a Memorandum of understanding specifying quantified deliverables.
+S027,S027-D018,,For Reimbursement Proposals:***
+S027,S027-D019,,Monthly Performance Report/ Performance cum Achievement Report (as applicable) with photographs.
+S027,S027-D020,,"Verification report (Gist of expenditure) with the mode of payment from concerned Asst. Director, Handicrafts Service Centre/Field formation"
+S027,S027-D021,,Utilization Certification in GFR 12A duly verified/certified by Chartered Accountant with membership No. and countersigned by Implementing Agency.
+S027,S027-D022,,An audited statement of accounts and statement of expenditure duly verified/certified by Chartered Accountant with membership No. and countersigned by Implementing Agency.
+S027,S027-D023,,An inspection report from the concerned AD of the field office.
+S027,S027-D024,,Any other documents desired by the competent authority.
+S027,S027-D025,,"For Fresh Proposals as well as Reimbursement Proposals, the applicant is required to certify the following:***"
+S027,S027-D026,,1\. No financial assistance has been received from any other source for the same purpose.
+S027,S027-D027,,2\. The provisions of the scheme have been fully understood and we take responsibility for the successful completion of the project within the stipulated time.
+S027,S027-D028,,3\. All infrastructures are available with the organization to implement the project.
+S027,S027-D029,,4\. There is no duplication of efforts that takes place with existing schemes of other ministries.
+S027,S027-D030,,5\. The Organization is not involved in any corrupt practices and has not been black-listed by any central/state agencies.
+S027,S027-D031,,6\. No UC is pending in any scheme of the O/o DC (Handicrafts).
+S028,S028-D001,,1\. copy of the latest electricity bill
+S029,S029-D001,,Aadhaar Card.
+S029,S029-D002,,Ration Card.
+S029,S029-D003,,"Residence-cum-nativity Certificate, Issued by the Competent Authority."
+S029,S029-D004,,Recent Passport-size Photograph.
+S029,S029-D005,,Bank Passbook.
+S029,S029-D006,,Caste Certificate.
+S029,S029-D007,,Disability Certificate / Medical Certificate.
+S029,S029-D008,,Financial Assistance Identity Card.
+S030,S030-D001,,Aadhar Card
+S030,S030-D002,,PAN Card
+S030,S030-D003,,"Unique Disability ID card (UDID) (issued by the Ministry of Social Justice and Empowerment, Govt. of India) or Disability certificate (issued by Central Govt./State Govt./District Govt. bearing the proper signature and seal of the issuing authority wherein their name and registration no. should be mentioned)"
+S030,S030-D004,,Income Tax Return filed for the last three years.
+S030,S030-D005,,Self-Declaration stating that he has not availed this concession in the last five years and he will not dispose of the vehicle after availing the GST concession for a period of 5 years from the date of purchase in the prescribed format placed in Annexure C.
+S030,S030-D006,,"Details of the Vehicle Model they intend to purchase along with the name of the dealer from whom the vehicle will be purchased and the name of RTO, where the vehicle will be registered."
+S030,S030-D007,,"NOTE:** If a person does not have either of the medical certificates as referred above, then duly-filled annexure B is required with the signature and countersignature of orthopaedic doctor and civil surgeon rank officers respectively with their seal indicating their name and registration number."
+S031,S031-D001,,1\. Copy of plan expenditure of proposed expenses\*.
+S031,S031-D002,,2\. The form and documents as mentioned in Annexure 1 for Educational Institutes.
+S031,S031-D003,,NOTE:** The bank account of the Principal/ Director of the institute should be linked to Aadhaar.
+S032,S032-D001,,Proof of Age.
+S032,S032-D002,,Declaration/Affidavit that the applicant has not availed any benefit of loan/subsidy from any other source for the intended purpose.
+S032,S032-D003,,A provisional loan sanction order from the bank.
+S032,S032-D004,,"Necessary approvals from authorities such as Municipality, Department of Science and Technology, Inspector of Factories and Boilers, Agriculture Department, etc."
+S033,S033-D001,,"National identity card for differently abled,"
+S033,S033-D002,,"Certificate  from the educational  institution,  (except  for the Blind)"
+S033,S033-D003,,Bonafide certificate from concerned authority/employer.
+S033,S033-D004,,For 75% concession every time a Xerox copy of the Identity card is to be given to the conductor and the original shall be shown if required.
+S033,S033-D005,,"For availing 75% concession for the escort, a certificate from Government Doctor should be submitted."
+S034,S034-D001,,Aadhaar Card
+S034,S034-D002,,Proof of Identity
+S034,S034-D003,,Proof of Age (Birth Certificate or Marksheet of Class 10th)
+S034,S034-D004,,Bank Details
+S034,S034-D005,,Proof of pursuing Ph.D. in Social Sciences
+S034,S034-D006,,Passport Size Photograph
+S034,S034-D007,,Caste Certificate (if applicable)
+S034,S034-D008,,Disability Certificate (if applicable)
+S034,S034-D009,,Transgender ID Card (if applicable)
+S034,S034-D010,,Proof of being a single girl child has to be submitted on an affidavit ofRs.50/- Stamp paper from the fellow/parent duly attested by SDM/First Class Magistrate/Gazetted Officer (not below the rank of Tahsildar) as per the prescribed proforma ([Annexure I](https://www.ugc.gov.in/pdfnews/1555717_guidelines-SWAMI-Vivekananda.pdf)) at the time of filling out the online application.
+S035,S035-D001,,"Identity card i.e. Aadhaar Card, Election ID/ Voter ID"
+S035,S035-D002,,Mobile number
+S035,S035-D003,,Email id
+S035,S035-D004,,Passport size photo
+S035,S035-D005,,Self-declaration Affidavit stating that the applicant is Transgender.
+S035,S035-D006,,Bank details- Copy of Pass Book
+S035,S035-D007,,Ration Card (If applicable)
+S035,S035-D008,,Certificate issued by the Principal of the Educational Institution
+S035,S035-D009,,Educational Certificates/Course Certificates
+S035,S035-D010,,The applicant who has not completed 18 years of age Parent's Certificate / Applicant who has completed 18 years of age and ID Card is not available-Self attested certificate.
+S035,S035-D011,,"Other documents, if any"
+S036,S036-D001,,Student Photo
+S036,S036-D002,,Aadhaar Number
+S036,S036-D003,,Caste Certificate
+S036,S036-D004,,Details of the Aadhaar Linked Bank Account
+S036,S036-D005,,Residential/Domicile Certificate
+S036,S036-D006,,Proof of Admission
+S036,S036-D007,,Proof of Identity
+S036,S036-D008,,Marksheets of the Previous Qualified Examination
+S037,S037-D001,,Identity Proof
+S037,S037-D002,,Domicile certificate
+S037,S037-D003,,Income certificate
+S037,S037-D004,,Unconditional Offer Letter from the educational institution abroad.
+S037,S037-D005,,Educational qualification certificates
+S037,S037-D006,,Passport of the concerned candidate
+S037,S037-D007,,"No-objection certificate, in case the candidate is employed."
+S037,S037-D008,,﻿
+S038,S038-D001,,Caste Certificate Copy.
+S038,S038-D002,,Education Qualification Marksheet / Certificate Copy.
+S038,S038-D003,,Aadhar Card Copy.
+S038,S038-D004,,Jan Aadhar/Bhamashah Card Copy.
+S038,S038-D005,,Income Certificate Copy.
+S039,S039-D001,,Aadhaar Number.
+S039,S039-D002,,Proof of Identity.
+S039,S039-D003,,Proof of Age (Birth Certificate).
+S039,S039-D004,,Proof of Address.
+S039,S039-D005,,Domicile Certificate of Maharashtra.
+S039,S039-D006,,"Caste Certificate VJNT or SBC Community (duly signed by an authorized Revenue Officer, not below the rank of Tehsildar)."
+S039,S039-D007,,Marksheet of the Latest Educational Qualification.
+S039,S039-D008,,Fee Receipt of ‘Current Course Year’.
+S039,S039-D009,,Bank Account Details.
+S039,S039-D010,,Passport-sized Photograph.
+S040,S040-D001,,When applying for the Internship:***
+S040,S040-D002,,Passport Sized Photograph
+S040,S040-D003,,Self-Attested Copies of the Educational Certificates
+S040,S040-D004,,Declaration of Secrecy (Interns shall be required to furnish a Declaration of Secrecy prior to the commencement of the internship).
+S040,S040-D005,,At the end of the Internship:***
+S040,S040-D006,,"An assignment Report on the allotted subject (to be presented to the Director, SFIO)."
+S040,S040-D007,,A feedback on their experience of the internship program.
+S041,S041-D001,,"Identity card i.e. Aadhaar Card, Election ID/ Voter ID"
+S041,S041-D002,,Transgender students above 18 years of age should submit a copy of their Transgender ID card.
+S041,S041-D003,,Transgender students who have not completed 18 years of age should produce self-declaration with attestation of parent/head of the institution.
+S041,S041-D004,,Mobile number
+S041,S041-D005,,Email id
+S041,S041-D006,,Passport size photo
+S041,S041-D007,,Self-declaration Affidavit stating that the applicant is Transgender.
+S041,S041-D008,,Bank details- Copy of Pass Book
+S041,S041-D009,,A certificate from the institution/supervisors regarding admission on a merit basis
+S041,S041-D010,,Educational Certificates/Course Certificates
+S041,S041-D011,,Letter pad of the College/Institution with attached certificate of fee details
+S041,S041-D012,,"Other documents, if any"
+S042,S042-D001,,Class 12 marksheet.
+S042,S042-D002,,Age certificate.
+S042,S042-D003,,Domicile certificate.
+S042,S042-D004,,Caste certificate.
+S042,S042-D005,,Income certificate of parents.
+S042,S042-D006,,Village daughter certificate.
+S042,S042-D007,,Samagra ID.
+S042,S042-D008,,Current college code and branch code.
+S042,S042-D009,,Mobile number and email id of the candidate.
+S042,S042-D010,,Passport-size photograph of the candidate.
+S042,S042-D011,,﻿
+S043,S043-D001,,﻿
+S044,S044-D001,,Aadhaar Card.
+S044,S044-D002,,Annual Income Of The Parent / Guardian - Non-Tax Payee.
+S044,S044-D003,,Janaadhaar Card Details Of Family And Student.
+S044,S044-D004,,Bank Details Linked With the Janaadhaar Card Of Either The Family Head Or Student.
+S044,S044-D005,,Caste Certificate.
+S044,S044-D006,,Birth Certificate.
+S045,S045-D001,,Color Photograph of the applicant.
+S045,S045-D002,,Signature of the student.
+S045,S045-D003,,Student’s Aadhaar Card.
+S045,S045-D004,,Class 10TH Certificate and Marksheet.
+S045,S045-D005,,Residence Certificate.
+S045,S045-D006,,Income Certificate.
+S045,S045-D007,,Ration Card (Self-attested copy).
+S045,S045-D008,,Caste Certificate (issued by Competent Authority Sub-Divisional Officer / Circle Officer).
+S046,S046-D001,,Passport size photograph
+S046,S046-D002,,Scanned copy of signature
+S046,S046-D003,,Identity proof i.e. Aadhaar Card
+S046,S046-D004,,Self-Attested copy of Admit Card
+S046,S046-D005,,Proof of passing examination
+S046,S046-D006,,Proof of residence (issued by competent authority)
+S046,S046-D007,,Domicile Certificate
+S046,S046-D008,,Caste certificate
+S046,S046-D009,,Bank Account Details/scanned copy of signed cancelled cheque
+S046,S046-D010,,Any additional documents as required
+S047,S047-D001,,Bonafide Certificate (issued from the recognized School/College).
+S047,S047-D002,,Parents Income Certificate.
+S047,S047-D003,,Saderam/Disability Certificate.
+S047,S047-D004,,Aadhar Card.
+S047,S047-D005,,Mobile Number.
+S048,S048-D001,,Aadhaar Card
+S048,S048-D002,,Bank Account Details (Aadhaar-seeded)
+S048,S048-D003,,Previous Year Mark Sheet
+S048,S048-D004,,Original Fee Receipts
+S048,S048-D005,,Fee Structure (on institute letterhead with stamp/signature)
+S048,S048-D006,,"Income Certificate (issued by SDM, Delhi)"
+S048,S048-D007,,Caste Certificate (issued by Govt. of NCT of Delhi)
+S048,S048-D008,,Institution Certificate (confirming no other scholarship availed)
+S048,S048-D009,,Admission/Completion Date Proof
+S048,S048-D010,,Degree/Diploma Certificates (for all prior qualifications)
+S048,S048-D011,,Institute Verification Page (for institutions outside Delhi)
+S049,S049-D001,,1\.	Identity proof i.e Aadhaar Card
+S049,S049-D002,,2\.	PAN Card
+S049,S049-D003,,3\.	Income proof (Issued by Competent Authority)
+S049,S049-D004,,4\.	Educational Certificates
+S049,S049-D005,,5\.	Proof of admission to the course
+S049,S049-D006,,6\.	Bank account details
+S049,S049-D007,,"7\.	Any other documents, as required"
+S050,S050-D001,,Passport–sized Photograph
+S050,S050-D002,,Passbook
+S050,S050-D003,,"Identity Proof (Aadhaar Card/PAN Card/Voter ID/Bank Passbook with Photo, Kisan Photo Book/NREGA Job Card)"
+S050,S050-D004,,Address Proof (Aadhaar Card/PAN Card/Voter ID/Electricity Bill/Bank Passbook with Photo).
+S050,S050-D005,,"Evidence of Land records, as per the State Records of Right (RoR), Land Possession Certificate (LPC), and other applicable agreements, contracts notified or permitted by the state."
+S050,S050-D006,,Declaration about the crop sown/intended to be sown.

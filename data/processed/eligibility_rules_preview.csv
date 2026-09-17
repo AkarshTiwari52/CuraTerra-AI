@@ -1,0 +1,870 @@
+scheme_id,rule_id,section,attribute,operator,normalized_value,evidence_text
+S006,S006-E001,,residency,INFORMATION,The applicant should be domiciled in the state of Jharkhand.,The applicant should be domiciled in the state of Jharkhand.
+S006,S006-E002,,age,RANGE,18-60 years,The applicant should be in the age group of 18-60 years.
+S006,S006-E003,,occupation_or_beneficiary_type,INFORMATION,The applicant should be a registered Construction Worker (Nirmaan Shramik) or a Member of the 'Jharkhand Building and Other Construction Worker Welfare Board (JBOCWW Board)'.,The applicant should be a registered Construction Worker (Nirmaan Shramik) or a Member of the 'Jharkhand Building and Other Construction Worker Welfare Board (JBOCWW Board)'.
+S006,S006-E004,,age,INFORMATION,"The applicant should be engaged in construction work such as masons, carpenters, electricians, porters, painters, etc.","The applicant should be engaged in construction work such as masons, carpenters, electricians, porters, painters, etc."
+S006,S006-E005,,special_condition,INFORMATION,The applicant should have worked for at least 90 days.,The applicant should have worked for at least 90 days.
+S006,S006-E006,,prior_benefit,INFORMATION,The applicant should not already have availed of the benefits of this scheme.,The applicant should not already have availed of the benefits of this scheme.
+S026,S026-E001,,residency,INFORMATION,The beneficiary should be a resident of Tamil Nadu.,The beneficiary should be a resident of Tamil Nadu.
+S026,S026-E002,,special_condition,INFORMATION,The beneficiary should be a Small Road Transport Operator.,The beneficiary should be a Small Road Transport Operator.
+S027,S027-E001,,special_condition,INFORMATION,"Eligible Local statutory bodies, Apex Cooperative Societies, and National level Apex Societies (registered under the Society Act/Trust Act, etc.) ","Eligible Local statutory bodies, Apex Cooperative Societies, and National level Apex Societies (registered under the Society Act/Trust Act, etc.) "
+S027,S027-E002,,special_condition,INFORMATION,Producer Company supported by O/O DC Handicrafts.,Producer Company supported by O/O DC Handicrafts.
+S027,S027-E003,,age,INFORMATION,"Only implementing agencies with a minimum audited annual turnover of Rs. 1.5 Cr in the last three consecutive years will be eligible for implementation of infrastructure projects. However, this provision shall not be applied in the case of Central/State or state government agencies as an Implementing Agency (IA).","Only implementing agencies with a minimum audited annual turnover of Rs. 1.5 Cr in the last three consecutive years will be eligible for implementation of infrastructure projects. However, this provision shall not be applied in the case of Central/State or state government agencies as an Implementing Agency (IA)."
+S028,S028-E001,,residency,INFORMATION,Residential consumers and Group Housing Society can apply for the installation of a solar rooftop system.,Residential consumers and Group Housing Society can apply for the installation of a solar rooftop system.
+S028,S028-E002,,special_condition,INFORMATION,"If you have electricity connection in your name and you pay regularly the electricity bill in your own name and also you have the permission of use the roof for solar rooftop installation from the owner, you can install the RTS.","If you have electricity connection in your name and you pay regularly the electricity bill in your own name and also you have the permission of use the roof for solar rooftop installation from the owner, you can install the RTS."
+S029,S029-E001,,residency,INFORMATION,The applicant should be a Native/Resident of the Union Territory of Puducherry for at least 5 years.,The applicant should be a Native/Resident of the Union Territory of Puducherry for at least 5 years.
+S029,S029-E002,,income,<=,"₹ 75,000","The annual income of the applicant should not exceed ₹ 75,000/-."
+S029,S029-E003,,special_status,INFORMATION,The applicant should have a disability of 40% or above.,The applicant should have a disability of 40% or above.
+S029,S029-E004,,special_condition,INFORMATION,The applicant should not have performed the tour for the past ten years.,The applicant should not have performed the tour for the past ten years.
+S029,S029-E005,,special_condition,INFORMATION,The applicant should not be affected by any contagious diseases.,The applicant should not be affected by any contagious diseases.
+S029,S029-E006,,special_condition,INFORMATION,The applicants may apply to this scheme only after the issue of notification in the local newspapers.,The applicants may apply to this scheme only after the issue of notification in the local newspapers.
+S029,S029-E007,,age,RANGE,18-50 years,The age of the applicant should be between 18 and 50 years.
+S029,S029-E008,,special_condition,INFORMATION,The applicant should not be a Government Servant.,The applicant should not be a Government Servant.
+S029,S029-E009,,special_condition,INFORMATION,The parents of the applicant should not be a Government servant.,The parents of the applicant should not be a Government servant.
+S029,S029-E010,,special_condition,INFORMATION,The applicant should have registered his/her name in the Anganwadi Centre.,The applicant should have registered his/her name in the Anganwadi Centre.
+S030,S030-E001,,special_status,INFORMATION,"Any Orthopedic Physically handicapped person having a permanent disability of 40% & above can apply for the benefit under the scheme, irrespective of whether the applicant drives the vehicle himself or otherwise.","Any Orthopedic Physically handicapped person having a permanent disability of 40% & above can apply for the benefit under the scheme, irrespective of whether the applicant drives the vehicle himself or otherwise."
+S030,S030-E002,,special_condition,INFORMATION,"Cars (automatic or manual) having a length less than or equal to 4m and engine capacity of not more than 1200 cc (petrol, Liquefied Petroleum Gases (LPG) or compressed natural gas (CNG) or 1500 cc (diesel) qualify for purchase under this scheme.","Cars (automatic or manual) having a length less than or equal to 4m and engine capacity of not more than 1200 cc (petrol, Liquefied Petroleum Gases (LPG) or compressed natural gas (CNG) or 1500 cc (diesel) qualify for purchase under this scheme."
+S030,S030-E003,,special_condition,INFORMATION,The said Certificate for availing the GST concession would be valid for a period of three months from the date of issue of the certificate and the vehicle would have to be purchased by the applicant within this three-month period to avail the concession.,The said Certificate for availing the GST concession would be valid for a period of three months from the date of issue of the certificate and the vehicle would have to be purchased by the applicant within this three-month period to avail the concession.
+S031,S031-E001,,education,INFORMATION,"All the educational institutes in Goa, affiliated with a recognized public university are eligible to apply for this scheme.","All the educational institutes in Goa, affiliated with a recognized public university are eligible to apply for this scheme."
+S032,S032-E001,,gender,INFORMATION,The applicant should be a Private Sector/Fishermen/Fisherwomen Cooperative Societies/Fishermen /Entrepreneurs.,The applicant should be a Private Sector/Fishermen/Fisherwomen Cooperative Societies/Fishermen /Entrepreneurs.
+S032,S032-E002,,special_condition,INFORMATION,The applicant should be between 18 to 50 years old.,The applicant should be between 18 to 50 years old.
+S032,S032-E003,,asset_or_financial_condition,INFORMATION,The applicant should not have availed any benefit of loan/subsidy from any other source for the intended purpose.,The applicant should not have availed any benefit of loan/subsidy from any other source for the intended purpose.
+S033,S033-E001,,special_condition,INFORMATION,The Applicant should be a Differently abled person.,The Applicant should be a Differently abled person.
+S034,S034-E001,,gender,INFORMATION,"1\. Any single girl child of her parents pursuing a Ph.D. in Social Sciences in Universities/Colleges/ Institutes is eligible to apply under the scheme. In a family, if one son and one daughter are available then the girl child will not be considered for fellowship under the scheme.","1\. Any single girl child of her parents pursuing a Ph.D. in Social Sciences in Universities/Colleges/ Institutes is eligible to apply under the scheme. In a family, if one son and one daughter are available then the girl child will not be considered for fellowship under the scheme."
+S034,S034-E002,,gender,INFORMATION,"2\. The scheme is applicable to such a single girl child who has registered herself in regular, full-time Ph. D. program in Social Sciences in Indian Universities/Colleges/Institutes as indicated below:","2\. The scheme is applicable to such a single girl child who has registered herself in regular, full-time Ph. D. program in Social Sciences in Indian Universities/Colleges/Institutes as indicated below:"
+S034,S034-E003,,education,INFORMATION,"Universities/Colleges/Institutes included under section 2(f) and 12(b) of UGC Act, 1956.","Universities/Colleges/Institutes included under section 2(f) and 12(b) of UGC Act, 1956."
+S034,S034-E004,,special_condition,INFORMATION,Deemed to be Universities under section 3 of the UGC Act 1956 which are eligible to receive grants in aid from UGC.,Deemed to be Universities under section 3 of the UGC Act 1956 which are eligible to receive grants in aid from UGC.
+S034,S034-E005,,residency,INFORMATION,Universities/Colleges/Institutes funded by Central/ State Govt.,Universities/Colleges/Institutes funded by Central/ State Govt.
+S034,S034-E006,,special_condition,INFORMATION,Institutes of National Importance.,Institutes of National Importance.
+S034,S034-E007,,education,INFORMATION,3\. Admission to Ph.D. Course in Distance education mode is not covered under the scheme.,3\. Admission to Ph.D. Course in Distance education mode is not covered under the scheme.
+S034,S034-E008,,age,INFORMATION,4\. Girl students up to the age of 40 years for the general category and 45 years for the reserved categories i.e. SC/ST/OBC and PWD (Persons with Disabilities) as on the last date of submission of online application are eligible.,4\. Girl students up to the age of 40 years for the general category and 45 years for the reserved categories i.e. SC/ST/OBC and PWD (Persons with Disabilities) as on the last date of submission of online application are eligible.
+S034,S034-E009,,gender,INFORMATION,5\. Transgender candidates are eligible to apply under the scheme as per the norms.,5\. Transgender candidates are eligible to apply under the scheme as per the norms.
+S035,S035-E001,,gender,INFORMATION,1\.	Applicant should be Transgender.,1\.	Applicant should be Transgender.
+S035,S035-E002,,residency,INFORMATION,2\.	Applicant should be a resident of Kerala.,2\.	Applicant should be a resident of Kerala.
+S035,S035-E003,,residency,INFORMATION,3\.	Applicant should be a student and studying in State Government/ Government aided/ Self Financing schools/colleges.,3\.	Applicant should be a student and studying in State Government/ Government aided/ Self Financing schools/colleges.
+S035,S035-E004,,education,INFORMATION,4\.	The applicant should be studying in 7th Class to Diploma/Degree/PG Level.,4\.	The applicant should be studying in 7th Class to Diploma/Degree/PG Level.
+S035,S035-E005,,income,NO_LIMIT,No income limit,5\.	There is no income limit.
+S036,S036-E001,,special_condition,INFORMATION,The applicant must be a citizen of India.,The applicant must be a citizen of India.
+S036,S036-E002,,social_category,INFORMATION,The applicant must belong to Scheduled Castes / Scheduled Tribes communities as defined by the Government of India.,The applicant must belong to Scheduled Castes / Scheduled Tribes communities as defined by the Government of India.
+S036,S036-E003,,education,INFORMATION,Only those students who have been admitted in Agricultural Universities in any of the undergraduate degree programmes of Agriculture & Allied Sciences will be eligible for this scholarship.,Only those students who have been admitted in Agricultural Universities in any of the undergraduate degree programmes of Agriculture & Allied Sciences will be eligible for this scholarship.
+S036,S036-E004,,special_condition,INFORMATION,General Condition:***,General Condition:***
+S036,S036-E005,,age,INFORMATION,(a) The student who accepts this scholarship will not be permitted to avail any other scholarship / concession provided by any other agencies nor permitted to accept any part-time employment.,(a) The student who accepts this scholarship will not be permitted to avail any other scholarship / concession provided by any other agencies nor permitted to accept any part-time employment.
+S036,S036-E006,,prior_benefit,INFORMATION,(b) Termination of Scholarship: The scholarship will be terminated without notice,(b) Termination of Scholarship: The scholarship will be terminated without notice
+S036,S036-E007,,occupation_or_beneficiary_type,INFORMATION,(i) from the date the scholar debases to be on the roll of the institution or on the date of expiry of the sanction of the scholarship which ever is earlier. The scholarship can also be terminated without notice at any time if in the opinion of the institution and the Council the scholar is found to be negligent in his/her studies or is guilty of misconduct;,(i) from the date the scholar debases to be on the roll of the institution or on the date of expiry of the sanction of the scholarship which ever is earlier. The scholarship can also be terminated without notice at any time if in the opinion of the institution and the Council the scholar is found to be negligent in his/her studies or is guilty of misconduct;
+S036,S036-E008,,occupation_or_beneficiary_type,INFORMATION,(ii) if the scholar is dropped by the institution due to peer performance.,(ii) if the scholar is dropped by the institution due to peer performance.
+S037,S037-E001,,residency,INFORMATION,The candidate and the candidate's mother/father or guardian should be citizens of India and residents of the state of Maharashtra.,The candidate and the candidate's mother/father or guardian should be citizens of India and residents of the state of Maharashtra.
+S037,S037-E002,,social_category,INFORMATION,This scheme is applicable to the students from the open/unreserved category.,This scheme is applicable to the students from the open/unreserved category.
+S037,S037-E003,,social_category,INFORMATION,Students from the reserved category who wish to apply from the open category are eligible to apply for the scholarships.,Students from the reserved category who wish to apply from the open category are eligible to apply for the scholarships.
+S037,S037-E004,,education,INFORMATION,"For PG, Diploma after Graduation and Ph.D courses from a foreign educational institution, THE (Times Higher Education) / or QS (Quacquarelli Symonds) Ranking must be within 200.","For PG, Diploma after Graduation and Ph.D courses from a foreign educational institution, THE (Times Higher Education) / or QS (Quacquarelli Symonds) Ranking must be within 200."
+S037,S037-E005,,education,INFORMATION,Unconditional Offer Letter from the educational institution of abroad.,Unconditional Offer Letter from the educational institution of abroad.
+S037,S037-E006,,income,<=,"₹ 8,00,000","Annual family income should be less than ₹ 8,00,000/-."
+S037,S037-E007,,education,INFORMATION,The following seats are available for the said scholarship branch / course-wise:,The following seats are available for the said scholarship branch / course-wise:
+S037,S037-E008,,special_condition,INFORMATION,02,02
+S037,S037-E009,,education,INFORMATION,| **Sl. No.Branch/CoursePost Graduate Degree and Post Graduate DiplomaDoctorateTotal** |            |    |    |    |,| **Sl. No.Branch/CoursePost Graduate Degree and Post Graduate DiplomaDoctorateTotal** |            |    |    |    |
+S037,S037-E010,,special_condition,INFORMATION,| ------------------------------------------------------------------------------------ | ---------- | -- | -- | -- |,| ------------------------------------------------------------------------------------ | ---------- | -- | -- | -- |
+S037,S037-E011,,special_condition,INFORMATION,| 1                                                                                    | Art        | 01 | 01 | 02 |,| 1                                                                                    | Art        | 01 | 01 | 02 |
+S037,S037-E012,,special_condition,INFORMATION,| 2                                                                                    | Commerce   | 01 | 01 | 02 |,| 2                                                                                    | Commerce   | 01 | 01 | 02 |
+S037,S037-E013,,special_condition,INFORMATION,| 3                                                                                    | Science    | 01 | 01 | 02 |,| 3                                                                                    | Science    | 01 | 01 | 02 |
+S037,S037-E014,,age,INFORMATION,| 4                                                                                    | Management | 01 | 01 | 02 |,| 4                                                                                    | Management | 01 | 01 | 02 |
+S037,S037-E015,,education,INFORMATION,| 5                                                                                    | Law Course | 01 | 01 |    |,| 5                                                                                    | Law Course | 01 | 01 |    |
+S037,S037-E016,,special_condition,INFORMATION,| 6Engineering/ Architecture Science040408 |              |    |    |    |,| 6Engineering/ Architecture Science040408 |              |    |    |    |
+S037,S037-E017,,special_condition,INFORMATION,| ---------------------------------------- | ------------ | -- | -- | -- |,| ---------------------------------------- | ------------ | -- | -- | -- |
+S037,S037-E018,,special_condition,INFORMATION,| 7                                        | Pharmacology | 01 | 01 | 02 |,| 7                                        | Pharmacology | 01 | 01 | 02 |
+S037,S037-E019,,special_condition,INFORMATION,| ﻿<br>                                    | Total        | 10 | 10 | 20 |,| ﻿<br>                                    | Total        | 10 | 10 | 20 |
+S038,S038-E001,,gender,INFORMATION,The girl student should belong to the Saharia tribe of the Baran district of Rajasthan.,The girl student should belong to the Saharia tribe of the Baran district of Rajasthan.
+S038,S038-E002,,gender,INFORMATION,The girl child should be studying regularly in a government school.,The girl child should be studying regularly in a government school.
+S038,S038-E003,,income,INFORMATION,The mother/father/guardian/guardian of the student should not be an income taxpayer.,The mother/father/guardian/guardian of the student should not be an income taxpayer.
+S038,S038-E004,,gender,INFORMATION,"The girl students, who are studying in residential schools/ashram hostels run by the government, they will not be entitled.","The girl students, who are studying in residential schools/ashram hostels run by the government, they will not be entitled."
+S038,S038-E005,,special_condition,INFORMATION,Vaidya Bhamashah card and Aadhaar should be there.,Vaidya Bhamashah card and Aadhaar should be there.
+S038,S038-E006,,residency,INFORMATION,Students should be a native of Rajasthan.,Students should be a native of Rajasthan.
+S040,S040-E001,,special_condition,INFORMATION,1\.   The applicant should be an Indian National.,1\.   The applicant should be an Indian National.
+S040,S040-E002,,special_condition,INFORMATION,2\.   The applicant should be any one of the following -:,2\.   The applicant should be any one of the following -:
+S040,S040-E003,,education,INFORMATION,"Students in Post Graduate Courses — MBA (Finance), Law Students in 4th/5th Year of a five-year stream with consistent and excellent academic records/fresh graduates with excellent academic records possessing a first-class graduation degree;","Students in Post Graduate Courses — MBA (Finance), Law Students in 4th/5th Year of a five-year stream with consistent and excellent academic records/fresh graduates with excellent academic records possessing a first-class graduation degree;"
+S040,S040-E004,,age,INFORMATION,Students pursuing post-graduation with a high second-class graduation degree (with at least 55% marks/students pursuing Masters/Research Courses in Economics/Finance/Management/Law at the National School of Economics/Law / Computer Forensics from recognized universities in India and Abroad.,Students pursuing post-graduation with a high second-class graduation degree (with at least 55% marks/students pursuing Masters/Research Courses in Economics/Finance/Management/Law at the National School of Economics/Law / Computer Forensics from recognized universities in India and Abroad.
+S040,S040-E005,,age,INFORMATION,"Students pursuing final year or the equivalent of ICAI, ICAI(CMA), ICSI/Central Universities/AICTE recognized financial/Economic Institutions/recognized National Management Institutes/Foreign Universities and Institutions of Excellence.","Students pursuing final year or the equivalent of ICAI, ICAI(CMA), ICSI/Central Universities/AICTE recognized financial/Economic Institutions/recognized National Management Institutes/Foreign Universities and Institutions of Excellence."
+S040,S040-E006,,education,INFORMATION,"3\.  In the case of Graduate Applicants, the applicant should have secured First Class Degree in Graduation.","3\.  In the case of Graduate Applicants, the applicant should have secured First Class Degree in Graduation."
+S041,S041-E001,,gender,INFORMATION,The applicant should be Transgender.,The applicant should be Transgender.
+S041,S041-E002,,residency,INFORMATION,The applicant should be a resident of Kerala.,The applicant should be a resident of Kerala.
+S041,S041-E003,,gender,INFORMATION,"Transgender students who have secured admission in merit seats in Government, Aided/Self-financing colleges are eligible under this scheme.","Transgender students who have secured admission in merit seats in Government, Aided/Self-financing colleges are eligible under this scheme."
+S041,S041-E004,,gender,INFORMATION,"Transgender students who secure admission for courses MBBS, Bachelor of Veterinary Science (BVSc), and BSc Agriculture in Government colleges are eligible.","Transgender students who secure admission for courses MBBS, Bachelor of Veterinary Science (BVSc), and BSc Agriculture in Government colleges are eligible."
+S041,S041-E005,,gender,INFORMATION,Transgender students pursuing Diploma level government-accredited courses are also eligible.,Transgender students pursuing Diploma level government-accredited courses are also eligible.
+S041,S041-E006,,gender,INFORMATION,Transgender students who have completed 18 years must submit a copy of their Transgender ID card.,Transgender students who have completed 18 years must submit a copy of their Transgender ID card.
+S041,S041-E007,,gender,INFORMATION,Those Transgender students who are below 18 years must submit a self-declaration statement duly certified by the Head of Institution/Parent.,Those Transgender students who are below 18 years must submit a self-declaration statement duly certified by the Head of Institution/Parent.
+S042,S042-E001,,education,INFORMATION,The student must have secured 60% or more marks in the 12th standard.,The student must have secured 60% or more marks in the 12th standard.
+S042,S042-E002,,age,INFORMATION,"The girl must reside in a rural area and possess a ""Gaon Ki Beti"" (Daughter of the Village) certificate.","The girl must reside in a rural area and possess a ""Gaon Ki Beti"" (Daughter of the Village) certificate."
+S042,S042-E003,,education,INFORMATION,She must be enrolled in a recognized institution for higher education.,She must be enrolled in a recognized institution for higher education.
+S043,S043-E001,,gender,INFORMATION,The applicant should be a girl.,The applicant should be a girl.
+S043,S043-E002,,education,INFORMATION,The applicant should be a student.,The applicant should be a student.
+S043,S043-E003,,education,INFORMATION,The applicant should be studying in class VIII(8) in Government School of the UT of Dadra & Nagar Haveli and Daman & Diu.,The applicant should be studying in class VIII(8) in Government School of the UT of Dadra & Nagar Haveli and Daman & Diu.
+S044,S044-E001,,gender,INFORMATION,The girl student should belong to the tribal class of Rajasthan.,The girl student should belong to the tribal class of Rajasthan.
+S044,S044-E002,,gender,INFORMATION,The girl student should be regularly studying general education in a private/government college.,The girl student should be regularly studying general education in a private/government college.
+S044,S044-E003,,income,INFORMATION,The parent/guardian/guardian/husband of the student should not be an income taxpayer.,The parent/guardian/guardian/husband of the student should not be an income taxpayer.
+S044,S044-E004,,education,INFORMATION,"After passing the board examination, there should not be any gap in the continuous study of the student applying for the scheme.","After passing the board examination, there should not be any gap in the continuous study of the student applying for the scheme."
+S044,S044-E005,,education,INFORMATION,The student who is studying by living in a hostel run by the government. They will not be entitled to benefit under the said scheme.,The student who is studying by living in a hostel run by the government. They will not be entitled to benefit under the said scheme.
+S044,S044-E006,,special_condition,INFORMATION,Must have Vaidya Bhamashah card and Aadhaar card.,Must have Vaidya Bhamashah card and Aadhaar card.
+S044,S044-E007,,gender,INFORMATION,The girl student should be a native of Rajasthan.,The girl student should be a native of Rajasthan.
+S045,S045-E001,,residency,INFORMATION,The applicant should be a resident of Jharkhand state.,The applicant should be a resident of Jharkhand state.
+S045,S045-E002,,residency,INFORMATION,The student should have passed class 10th from any recognized school in the state of Jharkhand **or** the student should possess a local residence certificate of Jharkhand.,The student should have passed class 10th from any recognized school in the state of Jharkhand **or** the student should possess a local residence certificate of Jharkhand.
+S045,S045-E003,,education,INFORMATION,"The student must meet the exam's eligibility criteria for coaching under this scheme. For exams requiring Class 12th qualification, Class 11th students at the time of application are also eligible.","The student must meet the exam's eligibility criteria for coaching under this scheme. For exams requiring Class 12th qualification, Class 11th students at the time of application are also eligible."
+S045,S045-E004,,residency,<=,"₹8,00,000","The student's annual family income should be less than ₹8,00,000/- **or** the student should be covered under the National/State Food Security Scheme."
+S045,S045-E005,,prior_benefit,INFORMATION,An applicant who has already received similar benefits from another department is not eligible for dual benefits.,An applicant who has already received similar benefits from another department is not eligible for dual benefits.
+S045,S045-E006,,education,INFORMATION,The student can avail the benefit only once under this scheme.,The student can avail the benefit only once under this scheme.
+S045,S045-E007,,special_condition,INFORMATION,﻿,﻿
+S046,S046-E001,,residency,INFORMATION,The applicant should be a permanent resident of Bihar.,The applicant should be a permanent resident of Bihar.
+S046,S046-E002,,social_category,INFORMATION,The applicant should belong to the Scheduled Caste or Scheduled Tribe category.,The applicant should belong to the Scheduled Caste or Scheduled Tribe category.
+S046,S046-E003,,special_condition,INFORMATION,"The applicant should have passed the preliminary examination of the Civil Services Competitive Examination conducted by either the Bihar Public Service Commission, Patna, or the Union Public Service Commission, New Delhi.","The applicant should have passed the preliminary examination of the Civil Services Competitive Examination conducted by either the Bihar Public Service Commission, Patna, or the Union Public Service Commission, New Delhi."
+S046,S046-E004,,prior_benefit,INFORMATION,The benefit of this scheme is available to each candidate only once.,The benefit of this scheme is available to each candidate only once.
+S046,S046-E005,,prior_benefit,INFORMATION,The applicant should not have received the same incentive from any other sources previously.,The applicant should not have received the same incentive from any other sources previously.
+S047,S047-E001,,residency,INFORMATION,The student should be a native of Andhra Pradesh.,The student should be a native of Andhra Pradesh.
+S047,S047-E002,,education,INFORMATION,"The student should be visually challenged, hearing challenged, speech impaired, and orthopedically challenged.","The student should be visually challenged, hearing challenged, speech impaired, and orthopedically challenged."
+S047,S047-E003,,education,INFORMATION,The student should be pursuing postgraduate or professional courses.,The student should be pursuing postgraduate or professional courses.
+S047,S047-E004,,education,INFORMATION,The laptop is sanctioned once in the lifetime of the student.,The laptop is sanctioned once in the lifetime of the student.
+S048,S048-E001,,education,INFORMATION,The applicant should be a Student.,The applicant should be a Student.
+S048,S048-E002,,social_category,INFORMATION,The applicant should be from a Scheduled Caste.,The applicant should be from a Scheduled Caste.
+S048,S048-E003,,income,<=,"₹2,50,000","The annual income of the family of the applicant should not exceed ₹2,50,000/-."
+S048,S048-E004,,education,INFORMATION,The applicant should be enrolled in a recognized post-matriculation/post-secondary course in India.,The applicant should be enrolled in a recognized post-matriculation/post-secondary course in India.
+S048,S048-E005,,education,INFORMATION,The applicant should not be availing of any other scholarship for the same course from any other source.,The applicant should not be availing of any other scholarship for the same course from any other source.
+S049,S049-E001,,education,INFORMATION,Education Loans taken under the IBA Model Education Loan Scheme.,Education Loans taken under the IBA Model Education Loan Scheme.
+S049,S049-E002,,income,<=,₹4,The benefit of the Scheme is applicable to students belonging to economically weaker sections having gross parental/ family income up to ₹4.5 lakhs per annum from all sources.
+S049,S049-E003,,education,INFORMATION,"Students enrolled in professional/technical courses only from NAAC accredited Institutions or professional/technical programmes accredited by NBA or Institutions of National Importance or Central Funded Technical Institutions (CFTIs). Those Professional Institutions/programmes, which do not come under the ambit of NAAC or NBA, would require approval of the respective regulatory body.","Students enrolled in professional/technical courses only from NAAC accredited Institutions or professional/technical programmes accredited by NBA or Institutions of National Importance or Central Funded Technical Institutions (CFTIs). Those Professional Institutions/programmes, which do not come under the ambit of NAAC or NBA, would require approval of the respective regulatory body."
+S049,S049-E004,,education,INFORMATION,Admissible only once either for Undergraduate or Post Graduate degree courses. This is also admissible for Integrated Courses (Graduate + Post Graduate).,Admissible only once either for Undergraduate or Post Graduate degree courses. This is also admissible for Integrated Courses (Graduate + Post Graduate).
+S049,S049-E005,,residency,INFORMATION,Students availing any other Central /State Government Scholarship or Fee reimbursement shall not be eligible for availing benefits under the CSIS Scheme.,Students availing any other Central /State Government Scholarship or Fee reimbursement shall not be eligible for availing benefits under the CSIS Scheme.
+S049,S049-E006,,education,INFORMATION,"Interest Subsidy under this Scheme shall not be available to those students who discontinue their course midstream, or who are expelled from the Institution on disciplinary or academic grounds. However, the interest subsidy would be available only if discontinuation is due to medical grounds for which necessary documentation to the satisfaction of the Head of an educational institution needs to be provided.","Interest Subsidy under this Scheme shall not be available to those students who discontinue their course midstream, or who are expelled from the Institution on disciplinary or academic grounds. However, the interest subsidy would be available only if discontinuation is due to medical grounds for which necessary documentation to the satisfaction of the Head of an educational institution needs to be provided."
+S050,S050-E001,,occupation_or_beneficiary_type,INFORMATION,"All farmers, including tenant farmers and sharecroppers growing notified crops in notified areas.","All farmers, including tenant farmers and sharecroppers growing notified crops in notified areas."
+S050,S050-E002,,occupation_or_beneficiary_type,INFORMATION,Farmers must have an insurable interest in the insured crops.,Farmers must have an insurable interest in the insured crops.
+S050,S050-E003,,occupation_or_beneficiary_type,INFORMATION,Farmers must possess a valid and authenticated land ownership certificate or a valid land tenure agreement.,Farmers must possess a valid and authenticated land ownership certificate or a valid land tenure agreement.
+S050,S050-E004,,occupation_or_beneficiary_type,INFORMATION,The farmer must be a cultivator or sharecropper on the insured land.,The farmer must be a cultivator or sharecropper on the insured land.
+S050,S050-E005,,age,INFORMATION,"The farmer must apply for insurance coverage within the prescribed time frame, usually within 2 weeks of the start of the sowing season.","The farmer must apply for insurance coverage within the prescribed time frame, usually within 2 weeks of the start of the sowing season."
+S050,S050-E006,,occupation_or_beneficiary_type,INFORMATION,Farmers must not have received compensation for the same crop loss from any other medium or source.,Farmers must not have received compensation for the same crop loss from any other medium or source.
+S001,S001-E001,Eligibility,gender,==,female / transgender per norms,"1\. Any single girl child of her parents pursuing a Ph.D. in Social Sciences in Universities/Colleges/ Institutes is eligible to apply under the scheme. In a family, if one son and one daughter are available then the girl child will not be considered for fellowship under the scheme.
+2\. The scheme is applicable to such a single girl child who has registered herself in regular, full-time Ph. D. program in Social Sciences in Indian Universities/Colleges/Institutes as indicated below:
+- Universities/Colleges/Institutes included under section 2(f) and 12(b) of UGC Act, 1956.
+- Deemed to be Universities under section 3 of the UGC Act 1956 which are eligible to receive grants in aid from UGC.
+- Universities/Colleges/Institutes funded by Central/ State Govt.
+- Institutes of National Importance.
+3\. Admission to Ph.D. Course in Distance education mode is not covered under the scheme.
+4\. Girl students up to the age of 40 years for the general category and 45 years for the reserved categories i.e. SC/ST/OBC and PWD (Persons with Disabilities) as on the last date of submission of online application are eligible.
+5\. Transgender candidates are eligible to apply under the scheme as per the norms."
+S001,S001-E002,Eligibility,child_status,==,Single girl child,"1\. Any single girl child of her parents pursuing a Ph.D. in Social Sciences in Universities/Colleges/ Institutes is eligible to apply under the scheme. In a family, if one son and one daughter are available then the girl child will not be considered for fellowship under the scheme.
+2\. The scheme is applicable to such a single girl child who has registered herself in regular, full-time Ph. D. program in Social Sciences in Indian Universities/Colleges/Institutes as indicated below:
+- Universities/Colleges/Institutes included under section 2(f) and 12(b) of UGC Act, 1956.
+- Deemed to be Universities under section 3 of the UGC Act 1956 which are eligible to receive grants in aid from UGC.
+- Universities/Colleges/Institutes funded by Central/ State Govt.
+- Institutes of National Importance.
+3\. Admission to Ph.D. Course in Distance education mode is not covered under the scheme.
+4\. Girl students up to the age of 40 years for the general category and 45 years for the reserved categories i.e. SC/ST/OBC and PWD (Persons with Disabilities) as on the last date of submission of online application are eligible.
+5\. Transgender candidates are eligible to apply under the scheme as per the norms."
+S001,S001-E003,Eligibility,phd_status,==,Pursuing PhD,"1\. Any single girl child of her parents pursuing a Ph.D. in Social Sciences in Universities/Colleges/ Institutes is eligible to apply under the scheme. In a family, if one son and one daughter are available then the girl child will not be considered for fellowship under the scheme.
+2\. The scheme is applicable to such a single girl child who has registered herself in regular, full-time Ph. D. program in Social Sciences in Indian Universities/Colleges/Institutes as indicated below:
+- Universities/Colleges/Institutes included under section 2(f) and 12(b) of UGC Act, 1956.
+- Deemed to be Universities under section 3 of the UGC Act 1956 which are eligible to receive grants in aid from UGC.
+- Universities/Colleges/Institutes funded by Central/ State Govt.
+- Institutes of National Importance.
+3\. Admission to Ph.D. Course in Distance education mode is not covered under the scheme.
+4\. Girl students up to the age of 40 years for the general category and 45 years for the reserved categories i.e. SC/ST/OBC and PWD (Persons with Disabilities) as on the last date of submission of online application are eligible.
+5\. Transgender candidates are eligible to apply under the scheme as per the norms."
+S001,S001-E004,Eligibility,study_field,==,Social Sciences,"1\. Any single girl child of her parents pursuing a Ph.D. in Social Sciences in Universities/Colleges/ Institutes is eligible to apply under the scheme. In a family, if one son and one daughter are available then the girl child will not be considered for fellowship under the scheme.
+2\. The scheme is applicable to such a single girl child who has registered herself in regular, full-time Ph. D. program in Social Sciences in Indian Universities/Colleges/Institutes as indicated below:
+- Universities/Colleges/Institutes included under section 2(f) and 12(b) of UGC Act, 1956.
+- Deemed to be Universities under section 3 of the UGC Act 1956 which are eligible to receive grants in aid from UGC.
+- Universities/Colleges/Institutes funded by Central/ State Govt.
+- Institutes of National Importance.
+3\. Admission to Ph.D. Course in Distance education mode is not covered under the scheme.
+4\. Girl students up to the age of 40 years for the general category and 45 years for the reserved categories i.e. SC/ST/OBC and PWD (Persons with Disabilities) as on the last date of submission of online application are eligible.
+5\. Transgender candidates are eligible to apply under the scheme as per the norms."
+S001,S001-E005,Eligibility,study_mode,==,Regular full-time,"1\. Any single girl child of her parents pursuing a Ph.D. in Social Sciences in Universities/Colleges/ Institutes is eligible to apply under the scheme. In a family, if one son and one daughter are available then the girl child will not be considered for fellowship under the scheme.
+2\. The scheme is applicable to such a single girl child who has registered herself in regular, full-time Ph. D. program in Social Sciences in Indian Universities/Colleges/Institutes as indicated below:
+- Universities/Colleges/Institutes included under section 2(f) and 12(b) of UGC Act, 1956.
+- Deemed to be Universities under section 3 of the UGC Act 1956 which are eligible to receive grants in aid from UGC.
+- Universities/Colleges/Institutes funded by Central/ State Govt.
+- Institutes of National Importance.
+3\. Admission to Ph.D. Course in Distance education mode is not covered under the scheme.
+4\. Girl students up to the age of 40 years for the general category and 45 years for the reserved categories i.e. SC/ST/OBC and PWD (Persons with Disabilities) as on the last date of submission of online application are eligible.
+5\. Transgender candidates are eligible to apply under the scheme as per the norms."
+S001,S001-E006,Eligibility,country_of_institution,==,India,"1\. Any single girl child of her parents pursuing a Ph.D. in Social Sciences in Universities/Colleges/ Institutes is eligible to apply under the scheme. In a family, if one son and one daughter are available then the girl child will not be considered for fellowship under the scheme.
+2\. The scheme is applicable to such a single girl child who has registered herself in regular, full-time Ph. D. program in Social Sciences in Indian Universities/Colleges/Institutes as indicated below:
+- Universities/Colleges/Institutes included under section 2(f) and 12(b) of UGC Act, 1956.
+- Deemed to be Universities under section 3 of the UGC Act 1956 which are eligible to receive grants in aid from UGC.
+- Universities/Colleges/Institutes funded by Central/ State Govt.
+- Institutes of National Importance.
+3\. Admission to Ph.D. Course in Distance education mode is not covered under the scheme.
+4\. Girl students up to the age of 40 years for the general category and 45 years for the reserved categories i.e. SC/ST/OBC and PWD (Persons with Disabilities) as on the last date of submission of online application are eligible.
+5\. Transgender candidates are eligible to apply under the scheme as per the norms."
+S001,S001-E007,Eligibility,age_general,<=,40,"1\. Any single girl child of her parents pursuing a Ph.D. in Social Sciences in Universities/Colleges/ Institutes is eligible to apply under the scheme. In a family, if one son and one daughter are available then the girl child will not be considered for fellowship under the scheme.
+2\. The scheme is applicable to such a single girl child who has registered herself in regular, full-time Ph. D. program in Social Sciences in Indian Universities/Colleges/Institutes as indicated below:
+- Universities/Colleges/Institutes included under section 2(f) and 12(b) of UGC Act, 1956.
+- Deemed to be Universities under section 3 of the UGC Act 1956 which are eligible to receive grants in aid from UGC.
+- Universities/Colleges/Institutes funded by Central/ State Govt.
+- Institutes of National Importance.
+3\. Admission to Ph.D. Course in Distance education mode is not covered under the scheme.
+4\. Girl students up to the age of 40 years for the general category and 45 years for the reserved categories i.e. SC/ST/OBC and PWD (Persons with Disabilities) as on the last date of submission of online application are eligible.
+5\. Transgender candidates are eligible to apply under the scheme as per the norms."
+S001,S001-E008,Eligibility,age_reserved,<=,45,"1\. Any single girl child of her parents pursuing a Ph.D. in Social Sciences in Universities/Colleges/ Institutes is eligible to apply under the scheme. In a family, if one son and one daughter are available then the girl child will not be considered for fellowship under the scheme.
+2\. The scheme is applicable to such a single girl child who has registered herself in regular, full-time Ph. D. program in Social Sciences in Indian Universities/Colleges/Institutes as indicated below:
+- Universities/Colleges/Institutes included under section 2(f) and 12(b) of UGC Act, 1956.
+- Deemed to be Universities under section 3 of the UGC Act 1956 which are eligible to receive grants in aid from UGC.
+- Universities/Colleges/Institutes funded by Central/ State Govt.
+- Institutes of National Importance.
+3\. Admission to Ph.D. Course in Distance education mode is not covered under the scheme.
+4\. Girl students up to the age of 40 years for the general category and 45 years for the reserved categories i.e. SC/ST/OBC and PWD (Persons with Disabilities) as on the last date of submission of online application are eligible.
+5\. Transgender candidates are eligible to apply under the scheme as per the norms."
+S001,S001-E009,Eligibility,phd_mode,!=,Distance education,"1\. Any single girl child of her parents pursuing a Ph.D. in Social Sciences in Universities/Colleges/ Institutes is eligible to apply under the scheme. In a family, if one son and one daughter are available then the girl child will not be considered for fellowship under the scheme.
+2\. The scheme is applicable to such a single girl child who has registered herself in regular, full-time Ph. D. program in Social Sciences in Indian Universities/Colleges/Institutes as indicated below:
+- Universities/Colleges/Institutes included under section 2(f) and 12(b) of UGC Act, 1956.
+- Deemed to be Universities under section 3 of the UGC Act 1956 which are eligible to receive grants in aid from UGC.
+- Universities/Colleges/Institutes funded by Central/ State Govt.
+- Institutes of National Importance.
+3\. Admission to Ph.D. Course in Distance education mode is not covered under the scheme.
+4\. Girl students up to the age of 40 years for the general category and 45 years for the reserved categories i.e. SC/ST/OBC and PWD (Persons with Disabilities) as on the last date of submission of online application are eligible.
+5\. Transgender candidates are eligible to apply under the scheme as per the norms."
+S001,S001-E010,Eligibility,institution_eligibility,IN,"UGC 2(f)/12(b),eligible deemed universities,Central/State funded,Institutes of National Importance","1\. Any single girl child of her parents pursuing a Ph.D. in Social Sciences in Universities/Colleges/ Institutes is eligible to apply under the scheme. In a family, if one son and one daughter are available then the girl child will not be considered for fellowship under the scheme.
+2\. The scheme is applicable to such a single girl child who has registered herself in regular, full-time Ph. D. program in Social Sciences in Indian Universities/Colleges/Institutes as indicated below:
+- Universities/Colleges/Institutes included under section 2(f) and 12(b) of UGC Act, 1956.
+- Deemed to be Universities under section 3 of the UGC Act 1956 which are eligible to receive grants in aid from UGC.
+- Universities/Colleges/Institutes funded by Central/ State Govt.
+- Institutes of National Importance.
+3\. Admission to Ph.D. Course in Distance education mode is not covered under the scheme.
+4\. Girl students up to the age of 40 years for the general category and 45 years for the reserved categories i.e. SC/ST/OBC and PWD (Persons with Disabilities) as on the last date of submission of online application are eligible.
+5\. Transgender candidates are eligible to apply under the scheme as per the norms."
+S002,S002-E001,Eligibility,gender,==,transgender,"1\.	Applicant should be Transgender.
+2\.	Applicant should be a resident of Kerala.
+3\.	Applicant should be a student and studying in State Government/ Government aided/ Self Financing schools/colleges.
+4\.	The applicant should be studying in 7th Class to Diploma/Degree/PG Level.
+5\.	There is no income limit."
+S002,S002-E002,Eligibility,state,==,Kerala,"1\.	Applicant should be Transgender.
+2\.	Applicant should be a resident of Kerala.
+3\.	Applicant should be a student and studying in State Government/ Government aided/ Self Financing schools/colleges.
+4\.	The applicant should be studying in 7th Class to Diploma/Degree/PG Level.
+5\.	There is no income limit."
+S002,S002-E003,Eligibility,student_status,==,Student,"1\.	Applicant should be Transgender.
+2\.	Applicant should be a resident of Kerala.
+3\.	Applicant should be a student and studying in State Government/ Government aided/ Self Financing schools/colleges.
+4\.	The applicant should be studying in 7th Class to Diploma/Degree/PG Level.
+5\.	There is no income limit."
+S002,S002-E004,Eligibility,education_level,IN,Class 7 to Diploma/Degree/PG,"1\.	Applicant should be Transgender.
+2\.	Applicant should be a resident of Kerala.
+3\.	Applicant should be a student and studying in State Government/ Government aided/ Self Financing schools/colleges.
+4\.	The applicant should be studying in 7th Class to Diploma/Degree/PG Level.
+5\.	There is no income limit."
+S002,S002-E005,Eligibility,income_limit,NO_LIMIT,No income limit,"1\.	Applicant should be Transgender.
+2\.	Applicant should be a resident of Kerala.
+3\.	Applicant should be a student and studying in State Government/ Government aided/ Self Financing schools/colleges.
+4\.	The applicant should be studying in 7th Class to Diploma/Degree/PG Level.
+5\.	There is no income limit."
+S003,S003-E001,Eligibility,citizenship,==,Indian citizen,"1. The applicant must be a citizen of India.
+2. The applicant must belong to Scheduled Castes / Scheduled Tribes communities as defined by the Government of India.
+3. Only those students who have been admitted in Agricultural Universities in any of the undergraduate degree programmes of Agriculture & Allied Sciences will be eligible for this scholarship.
+***General Condition:***
+(a) The student who accepts this scholarship will not be permitted to avail any other scholarship / concession provided by any other agencies nor permitted to accept any part-time employment.
+(b) Termination of Scholarship: The scholarship will be terminated without notice
+(i) from the date the scholar debases to be on the roll of the institution or on the date of expiry of the sanction of the scholarship which ever is earlier. The scholarship can also be terminated without notice at any time if in the opinion of the institution and the Council the scholar is found to be negligent in his/her studies or is guilty of misconduct;
+(ii) if the scholar is dropped by the institution due to peer performance."
+S003,S003-E002,Eligibility,social_category,IN,"SC,ST","1. The applicant must be a citizen of India.
+2. The applicant must belong to Scheduled Castes / Scheduled Tribes communities as defined by the Government of India.
+3. Only those students who have been admitted in Agricultural Universities in any of the undergraduate degree programmes of Agriculture & Allied Sciences will be eligible for this scholarship.
+***General Condition:***
+(a) The student who accepts this scholarship will not be permitted to avail any other scholarship / concession provided by any other agencies nor permitted to accept any part-time employment.
+(b) Termination of Scholarship: The scholarship will be terminated without notice
+(i) from the date the scholar debases to be on the roll of the institution or on the date of expiry of the sanction of the scholarship which ever is earlier. The scholarship can also be terminated without notice at any time if in the opinion of the institution and the Council the scholar is found to be negligent in his/her studies or is guilty of misconduct;
+(ii) if the scholar is dropped by the institution due to peer performance."
+S003,S003-E003,Eligibility,education_level,==,Undergraduate,"1. The applicant must be a citizen of India.
+2. The applicant must belong to Scheduled Castes / Scheduled Tribes communities as defined by the Government of India.
+3. Only those students who have been admitted in Agricultural Universities in any of the undergraduate degree programmes of Agriculture & Allied Sciences will be eligible for this scholarship.
+***General Condition:***
+(a) The student who accepts this scholarship will not be permitted to avail any other scholarship / concession provided by any other agencies nor permitted to accept any part-time employment.
+(b) Termination of Scholarship: The scholarship will be terminated without notice
+(i) from the date the scholar debases to be on the roll of the institution or on the date of expiry of the sanction of the scholarship which ever is earlier. The scholarship can also be terminated without notice at any time if in the opinion of the institution and the Council the scholar is found to be negligent in his/her studies or is guilty of misconduct;
+(ii) if the scholar is dropped by the institution due to peer performance."
+S003,S003-E004,Eligibility,study_field,==,Agriculture and Allied Sciences,"1. The applicant must be a citizen of India.
+2. The applicant must belong to Scheduled Castes / Scheduled Tribes communities as defined by the Government of India.
+3. Only those students who have been admitted in Agricultural Universities in any of the undergraduate degree programmes of Agriculture & Allied Sciences will be eligible for this scholarship.
+***General Condition:***
+(a) The student who accepts this scholarship will not be permitted to avail any other scholarship / concession provided by any other agencies nor permitted to accept any part-time employment.
+(b) Termination of Scholarship: The scholarship will be terminated without notice
+(i) from the date the scholar debases to be on the roll of the institution or on the date of expiry of the sanction of the scholarship which ever is earlier. The scholarship can also be terminated without notice at any time if in the opinion of the institution and the Council the scholar is found to be negligent in his/her studies or is guilty of misconduct;
+(ii) if the scholar is dropped by the institution due to peer performance."
+S003,S003-E005,Eligibility,institution_type,==,Agricultural University,"1. The applicant must be a citizen of India.
+2. The applicant must belong to Scheduled Castes / Scheduled Tribes communities as defined by the Government of India.
+3. Only those students who have been admitted in Agricultural Universities in any of the undergraduate degree programmes of Agriculture & Allied Sciences will be eligible for this scholarship.
+***General Condition:***
+(a) The student who accepts this scholarship will not be permitted to avail any other scholarship / concession provided by any other agencies nor permitted to accept any part-time employment.
+(b) Termination of Scholarship: The scholarship will be terminated without notice
+(i) from the date the scholar debases to be on the roll of the institution or on the date of expiry of the sanction of the scholarship which ever is earlier. The scholarship can also be terminated without notice at any time if in the opinion of the institution and the Council the scholar is found to be negligent in his/her studies or is guilty of misconduct;
+(ii) if the scholar is dropped by the institution due to peer performance."
+S003,S003-E006,Eligibility,other_scholarship,==,Not availing,"1. The applicant must be a citizen of India.
+2. The applicant must belong to Scheduled Castes / Scheduled Tribes communities as defined by the Government of India.
+3. Only those students who have been admitted in Agricultural Universities in any of the undergraduate degree programmes of Agriculture & Allied Sciences will be eligible for this scholarship.
+***General Condition:***
+(a) The student who accepts this scholarship will not be permitted to avail any other scholarship / concession provided by any other agencies nor permitted to accept any part-time employment.
+(b) Termination of Scholarship: The scholarship will be terminated without notice
+(i) from the date the scholar debases to be on the roll of the institution or on the date of expiry of the sanction of the scholarship which ever is earlier. The scholarship can also be terminated without notice at any time if in the opinion of the institution and the Council the scholar is found to be negligent in his/her studies or is guilty of misconduct;
+(ii) if the scholar is dropped by the institution due to peer performance."
+S003,S003-E007,Eligibility,part_time_employment,==,Not permitted,"1. The applicant must be a citizen of India.
+2. The applicant must belong to Scheduled Castes / Scheduled Tribes communities as defined by the Government of India.
+3. Only those students who have been admitted in Agricultural Universities in any of the undergraduate degree programmes of Agriculture & Allied Sciences will be eligible for this scholarship.
+***General Condition:***
+(a) The student who accepts this scholarship will not be permitted to avail any other scholarship / concession provided by any other agencies nor permitted to accept any part-time employment.
+(b) Termination of Scholarship: The scholarship will be terminated without notice
+(i) from the date the scholar debases to be on the roll of the institution or on the date of expiry of the sanction of the scholarship which ever is earlier. The scholarship can also be terminated without notice at any time if in the opinion of the institution and the Council the scholar is found to be negligent in his/her studies or is guilty of misconduct;
+(ii) if the scholar is dropped by the institution due to peer performance."
+S004,S004-E001,Eligibility,citizenship,==,Indian,"1. The candidate and the candidate's mother/father or guardian should be citizens of India and residents of the state of Maharashtra.
+2. This scheme is applicable to the students from the open/unreserved category.
+3. Students from the reserved category who wish to apply from the open category are eligible to apply for the scholarships.
+4. For PG, Diploma after Graduation and Ph.D courses from a foreign educational institution, THE (Times Higher Education) / or QS (Quacquarelli Symonds) Ranking must be within 200.
+5. Unconditional Offer Letter from the educational institution of abroad.
+6. Annual family income should be less than ₹ 8,00,000/-.
+7. The following seats are available for the said scholarship branch / course-wise:
+02
+| **Sl. No.Branch/CoursePost Graduate Degree and Post Graduate DiplomaDoctorateTotal** |            |    |    |    |
+| ------------------------------------------------------------------------------------ | ---------- | -- | -- | -- |
+| 1                                                                                    | Art        | 01 | 01 | 02 |
+| 2                                                                                    | Commerce   | 01 | 01 | 02 |
+| 3                                                                                    | Science    | 01 | 01 | 02 |
+| 4                                                                                    | Management | 01 | 01 | 02 |
+| 5                                                                                    | Law Course | 01 | 01 |    |
+| 6Engineering/ Architecture Science040408 |              |    |    |    |
+| ---------------------------------------- | ------------ | -- | -- | -- |
+| 7                                        | Pharmacology | 01 | 01 | 02 |
+| ﻿<br>                                    | Total        | 10 | 10 | 20 |"
+S004,S004-E002,Eligibility,state,==,Maharashtra,"1. The candidate and the candidate's mother/father or guardian should be citizens of India and residents of the state of Maharashtra.
+2. This scheme is applicable to the students from the open/unreserved category.
+3. Students from the reserved category who wish to apply from the open category are eligible to apply for the scholarships.
+4. For PG, Diploma after Graduation and Ph.D courses from a foreign educational institution, THE (Times Higher Education) / or QS (Quacquarelli Symonds) Ranking must be within 200.
+5. Unconditional Offer Letter from the educational institution of abroad.
+6. Annual family income should be less than ₹ 8,00,000/-.
+7. The following seats are available for the said scholarship branch / course-wise:
+02
+| **Sl. No.Branch/CoursePost Graduate Degree and Post Graduate DiplomaDoctorateTotal** |            |    |    |    |
+| ------------------------------------------------------------------------------------ | ---------- | -- | -- | -- |
+| 1                                                                                    | Art        | 01 | 01 | 02 |
+| 2                                                                                    | Commerce   | 01 | 01 | 02 |
+| 3                                                                                    | Science    | 01 | 01 | 02 |
+| 4                                                                                    | Management | 01 | 01 | 02 |
+| 5                                                                                    | Law Course | 01 | 01 |    |
+| 6Engineering/ Architecture Science040408 |              |    |    |    |
+| ---------------------------------------- | ------------ | -- | -- | -- |
+| 7                                        | Pharmacology | 01 | 01 | 02 |
+| ﻿<br>                                    | Total        | 10 | 10 | 20 |"
+S004,S004-E003,Eligibility,social_category,IN,"Open/Unreserved,reserved-category applying from open category","1. The candidate and the candidate's mother/father or guardian should be citizens of India and residents of the state of Maharashtra.
+2. This scheme is applicable to the students from the open/unreserved category.
+3. Students from the reserved category who wish to apply from the open category are eligible to apply for the scholarships.
+4. For PG, Diploma after Graduation and Ph.D courses from a foreign educational institution, THE (Times Higher Education) / or QS (Quacquarelli Symonds) Ranking must be within 200.
+5. Unconditional Offer Letter from the educational institution of abroad.
+6. Annual family income should be less than ₹ 8,00,000/-.
+7. The following seats are available for the said scholarship branch / course-wise:
+02
+| **Sl. No.Branch/CoursePost Graduate Degree and Post Graduate DiplomaDoctorateTotal** |            |    |    |    |
+| ------------------------------------------------------------------------------------ | ---------- | -- | -- | -- |
+| 1                                                                                    | Art        | 01 | 01 | 02 |
+| 2                                                                                    | Commerce   | 01 | 01 | 02 |
+| 3                                                                                    | Science    | 01 | 01 | 02 |
+| 4                                                                                    | Management | 01 | 01 | 02 |
+| 5                                                                                    | Law Course | 01 | 01 |    |
+| 6Engineering/ Architecture Science040408 |              |    |    |    |
+| ---------------------------------------- | ------------ | -- | -- | -- |
+| 7                                        | Pharmacology | 01 | 01 | 02 |
+| ﻿<br>                                    | Total        | 10 | 10 | 20 |"
+S004,S004-E004,Eligibility,annual_family_income,<,800000,"1. The candidate and the candidate's mother/father or guardian should be citizens of India and residents of the state of Maharashtra.
+2. This scheme is applicable to the students from the open/unreserved category.
+3. Students from the reserved category who wish to apply from the open category are eligible to apply for the scholarships.
+4. For PG, Diploma after Graduation and Ph.D courses from a foreign educational institution, THE (Times Higher Education) / or QS (Quacquarelli Symonds) Ranking must be within 200.
+5. Unconditional Offer Letter from the educational institution of abroad.
+6. Annual family income should be less than ₹ 8,00,000/-.
+7. The following seats are available for the said scholarship branch / course-wise:
+02
+| **Sl. No.Branch/CoursePost Graduate Degree and Post Graduate DiplomaDoctorateTotal** |            |    |    |    |
+| ------------------------------------------------------------------------------------ | ---------- | -- | -- | -- |
+| 1                                                                                    | Art        | 01 | 01 | 02 |
+| 2                                                                                    | Commerce   | 01 | 01 | 02 |
+| 3                                                                                    | Science    | 01 | 01 | 02 |
+| 4                                                                                    | Management | 01 | 01 | 02 |
+| 5                                                                                    | Law Course | 01 | 01 |    |
+| 6Engineering/ Architecture Science040408 |              |    |    |    |
+| ---------------------------------------- | ------------ | -- | -- | -- |
+| 7                                        | Pharmacology | 01 | 01 | 02 |
+| ﻿<br>                                    | Total        | 10 | 10 | 20 |"
+S004,S004-E005,Eligibility,education_level,IN,"PG,Diploma after Graduation,PhD","1. The candidate and the candidate's mother/father or guardian should be citizens of India and residents of the state of Maharashtra.
+2. This scheme is applicable to the students from the open/unreserved category.
+3. Students from the reserved category who wish to apply from the open category are eligible to apply for the scholarships.
+4. For PG, Diploma after Graduation and Ph.D courses from a foreign educational institution, THE (Times Higher Education) / or QS (Quacquarelli Symonds) Ranking must be within 200.
+5. Unconditional Offer Letter from the educational institution of abroad.
+6. Annual family income should be less than ₹ 8,00,000/-.
+7. The following seats are available for the said scholarship branch / course-wise:
+02
+| **Sl. No.Branch/CoursePost Graduate Degree and Post Graduate DiplomaDoctorateTotal** |            |    |    |    |
+| ------------------------------------------------------------------------------------ | ---------- | -- | -- | -- |
+| 1                                                                                    | Art        | 01 | 01 | 02 |
+| 2                                                                                    | Commerce   | 01 | 01 | 02 |
+| 3                                                                                    | Science    | 01 | 01 | 02 |
+| 4                                                                                    | Management | 01 | 01 | 02 |
+| 5                                                                                    | Law Course | 01 | 01 |    |
+| 6Engineering/ Architecture Science040408 |              |    |    |    |
+| ---------------------------------------- | ------------ | -- | -- | -- |
+| 7                                        | Pharmacology | 01 | 01 | 02 |
+| ﻿<br>                                    | Total        | 10 | 10 | 20 |"
+S004,S004-E006,Eligibility,foreign_institution_ranking,<=,200,"1. The candidate and the candidate's mother/father or guardian should be citizens of India and residents of the state of Maharashtra.
+2. This scheme is applicable to the students from the open/unreserved category.
+3. Students from the reserved category who wish to apply from the open category are eligible to apply for the scholarships.
+4. For PG, Diploma after Graduation and Ph.D courses from a foreign educational institution, THE (Times Higher Education) / or QS (Quacquarelli Symonds) Ranking must be within 200.
+5. Unconditional Offer Letter from the educational institution of abroad.
+6. Annual family income should be less than ₹ 8,00,000/-.
+7. The following seats are available for the said scholarship branch / course-wise:
+02
+| **Sl. No.Branch/CoursePost Graduate Degree and Post Graduate DiplomaDoctorateTotal** |            |    |    |    |
+| ------------------------------------------------------------------------------------ | ---------- | -- | -- | -- |
+| 1                                                                                    | Art        | 01 | 01 | 02 |
+| 2                                                                                    | Commerce   | 01 | 01 | 02 |
+| 3                                                                                    | Science    | 01 | 01 | 02 |
+| 4                                                                                    | Management | 01 | 01 | 02 |
+| 5                                                                                    | Law Course | 01 | 01 |    |
+| 6Engineering/ Architecture Science040408 |              |    |    |    |
+| ---------------------------------------- | ------------ | -- | -- | -- |
+| 7                                        | Pharmacology | 01 | 01 | 02 |
+| ﻿<br>                                    | Total        | 10 | 10 | 20 |"
+S004,S004-E007,Eligibility,offer_letter,==,Unconditional,"1. The candidate and the candidate's mother/father or guardian should be citizens of India and residents of the state of Maharashtra.
+2. This scheme is applicable to the students from the open/unreserved category.
+3. Students from the reserved category who wish to apply from the open category are eligible to apply for the scholarships.
+4. For PG, Diploma after Graduation and Ph.D courses from a foreign educational institution, THE (Times Higher Education) / or QS (Quacquarelli Symonds) Ranking must be within 200.
+5. Unconditional Offer Letter from the educational institution of abroad.
+6. Annual family income should be less than ₹ 8,00,000/-.
+7. The following seats are available for the said scholarship branch / course-wise:
+02
+| **Sl. No.Branch/CoursePost Graduate Degree and Post Graduate DiplomaDoctorateTotal** |            |    |    |    |
+| ------------------------------------------------------------------------------------ | ---------- | -- | -- | -- |
+| 1                                                                                    | Art        | 01 | 01 | 02 |
+| 2                                                                                    | Commerce   | 01 | 01 | 02 |
+| 3                                                                                    | Science    | 01 | 01 | 02 |
+| 4                                                                                    | Management | 01 | 01 | 02 |
+| 5                                                                                    | Law Course | 01 | 01 |    |
+| 6Engineering/ Architecture Science040408 |              |    |    |    |
+| ---------------------------------------- | ------------ | -- | -- | -- |
+| 7                                        | Pharmacology | 01 | 01 | 02 |
+| ﻿<br>                                    | Total        | 10 | 10 | 20 |"
+S005,S005-E001,Eligibility,gender,==,female,"1. The girl student should belong to the Saharia tribe of the Baran district of Rajasthan.
+2. The girl child should be studying regularly in a government school.
+3. The mother/father/guardian/guardian of the student should not be an income taxpayer.
+4. The girl students, who are studying in residential schools/ashram hostels run by the government, they will not be entitled.
+5. Vaidya Bhamashah card and Aadhaar should be there.
+6. Students should be a native of Rajasthan."
+S005,S005-E002,Eligibility,social_category,==,Saharia tribe,"1. The girl student should belong to the Saharia tribe of the Baran district of Rajasthan.
+2. The girl child should be studying regularly in a government school.
+3. The mother/father/guardian/guardian of the student should not be an income taxpayer.
+4. The girl students, who are studying in residential schools/ashram hostels run by the government, they will not be entitled.
+5. Vaidya Bhamashah card and Aadhaar should be there.
+6. Students should be a native of Rajasthan."
+S005,S005-E003,Eligibility,district,==,Baran,"1. The girl student should belong to the Saharia tribe of the Baran district of Rajasthan.
+2. The girl child should be studying regularly in a government school.
+3. The mother/father/guardian/guardian of the student should not be an income taxpayer.
+4. The girl students, who are studying in residential schools/ashram hostels run by the government, they will not be entitled.
+5. Vaidya Bhamashah card and Aadhaar should be there.
+6. Students should be a native of Rajasthan."
+S005,S005-E004,Eligibility,state,==,Rajasthan,"1. The girl student should belong to the Saharia tribe of the Baran district of Rajasthan.
+2. The girl child should be studying regularly in a government school.
+3. The mother/father/guardian/guardian of the student should not be an income taxpayer.
+4. The girl students, who are studying in residential schools/ashram hostels run by the government, they will not be entitled.
+5. Vaidya Bhamashah card and Aadhaar should be there.
+6. Students should be a native of Rajasthan."
+S005,S005-E005,Eligibility,school_type,==,Government school,"1. The girl student should belong to the Saharia tribe of the Baran district of Rajasthan.
+2. The girl child should be studying regularly in a government school.
+3. The mother/father/guardian/guardian of the student should not be an income taxpayer.
+4. The girl students, who are studying in residential schools/ashram hostels run by the government, they will not be entitled.
+5. Vaidya Bhamashah card and Aadhaar should be there.
+6. Students should be a native of Rajasthan."
+S005,S005-E006,Eligibility,school_class,RANGE,11-12,"1. The girl student should belong to the Saharia tribe of the Baran district of Rajasthan.
+2. The girl child should be studying regularly in a government school.
+3. The mother/father/guardian/guardian of the student should not be an income taxpayer.
+4. The girl students, who are studying in residential schools/ashram hostels run by the government, they will not be entitled.
+5. Vaidya Bhamashah card and Aadhaar should be there.
+6. Students should be a native of Rajasthan."
+S005,S005-E007,Eligibility,parent_income_taxpayer,==,No,"1. The girl student should belong to the Saharia tribe of the Baran district of Rajasthan.
+2. The girl child should be studying regularly in a government school.
+3. The mother/father/guardian/guardian of the student should not be an income taxpayer.
+4. The girl students, who are studying in residential schools/ashram hostels run by the government, they will not be entitled.
+5. Vaidya Bhamashah card and Aadhaar should be there.
+6. Students should be a native of Rajasthan."
+S005,S005-E008,Eligibility,government_hostel_resident,==,No,"1. The girl student should belong to the Saharia tribe of the Baran district of Rajasthan.
+2. The girl child should be studying regularly in a government school.
+3. The mother/father/guardian/guardian of the student should not be an income taxpayer.
+4. The girl students, who are studying in residential schools/ashram hostels run by the government, they will not be entitled.
+5. Vaidya Bhamashah card and Aadhaar should be there.
+6. Students should be a native of Rajasthan."
+S005,S005-E009,Eligibility,required_cards,==,Vaidya Bhamashah and Aadhaar,"1. The girl student should belong to the Saharia tribe of the Baran district of Rajasthan.
+2. The girl child should be studying regularly in a government school.
+3. The mother/father/guardian/guardian of the student should not be an income taxpayer.
+4. The girl students, who are studying in residential schools/ashram hostels run by the government, they will not be entitled.
+5. Vaidya Bhamashah card and Aadhaar should be there.
+6. Students should be a native of Rajasthan."
+S039,S039-E001,Eligibility,gender,==,female,"1. Girl Student should belong to V.J.N.T. or S.B.C category.
+2. Girl Student should be studying in 8th to 10th Standard.
+3. No income limit and there will be no limit of marks."
+S039,S039-E002,Eligibility,social_category,IN,"VJNT,SBC","1. Girl Student should belong to V.J.N.T. or S.B.C category.
+2. Girl Student should be studying in 8th to 10th Standard.
+3. No income limit and there will be no limit of marks."
+S039,S039-E003,Eligibility,school_class,RANGE,8-10,"1. Girl Student should belong to V.J.N.T. or S.B.C category.
+2. Girl Student should be studying in 8th to 10th Standard.
+3. No income limit and there will be no limit of marks."
+S039,S039-E004,Eligibility,state,==,Maharashtra,"1. Girl Student should belong to V.J.N.T. or S.B.C category.
+2. Girl Student should be studying in 8th to 10th Standard.
+3. No income limit and there will be no limit of marks."
+S039,S039-E005,Eligibility,income_limit,NO_LIMIT,No income limit,"1. Girl Student should belong to V.J.N.T. or S.B.C category.
+2. Girl Student should be studying in 8th to 10th Standard.
+3. No income limit and there will be no limit of marks."
+S039,S039-E006,Eligibility,marks_requirement,NO_LIMIT,No marks limit,"1. Girl Student should belong to V.J.N.T. or S.B.C category.
+2. Girl Student should be studying in 8th to 10th Standard.
+3. No income limit and there will be no limit of marks."
+S007,S007-E001,Eligibility,citizenship,==,Indian National,"1\.   The applicant should be an Indian National.
+2\.   The applicant should be any one of the following -:
+- Students in Post Graduate Courses — MBA (Finance), Law Students in 4th/5th Year of a five-year stream with consistent and excellent academic records/fresh graduates with excellent academic records possessing a first-class graduation degree;
+- Students pursuing post-graduation with a high second-class graduation degree (with at least 55% marks/students pursuing Masters/Research Courses in Economics/Finance/Management/Law at the National School of Economics/Law / Computer Forensics from recognized universities in India and Abroad.
+- Students pursuing final year or the equivalent of ICAI, ICAI(CMA), ICSI/Central Universities/AICTE recognized financial/Economic Institutions/recognized National Management Institutes/Foreign Universities and Institutions of Excellence.
+3\.  In the case of Graduate Applicants, the applicant should have secured First Class Degree in Graduation."
+S007,S007-E002,Eligibility,education_level,IN,Specified PG/professional/final-year/fresh graduate pathways,"1\.   The applicant should be an Indian National.
+2\.   The applicant should be any one of the following -:
+- Students in Post Graduate Courses — MBA (Finance), Law Students in 4th/5th Year of a five-year stream with consistent and excellent academic records/fresh graduates with excellent academic records possessing a first-class graduation degree;
+- Students pursuing post-graduation with a high second-class graduation degree (with at least 55% marks/students pursuing Masters/Research Courses in Economics/Finance/Management/Law at the National School of Economics/Law / Computer Forensics from recognized universities in India and Abroad.
+- Students pursuing final year or the equivalent of ICAI, ICAI(CMA), ICSI/Central Universities/AICTE recognized financial/Economic Institutions/recognized National Management Institutes/Foreign Universities and Institutions of Excellence.
+3\.  In the case of Graduate Applicants, the applicant should have secured First Class Degree in Graduation."
+S007,S007-E003,Eligibility,academic_record,IN,First-class graduation or specified high second-class/55% pathway,"1\.   The applicant should be an Indian National.
+2\.   The applicant should be any one of the following -:
+- Students in Post Graduate Courses — MBA (Finance), Law Students in 4th/5th Year of a five-year stream with consistent and excellent academic records/fresh graduates with excellent academic records possessing a first-class graduation degree;
+- Students pursuing post-graduation with a high second-class graduation degree (with at least 55% marks/students pursuing Masters/Research Courses in Economics/Finance/Management/Law at the National School of Economics/Law / Computer Forensics from recognized universities in India and Abroad.
+- Students pursuing final year or the equivalent of ICAI, ICAI(CMA), ICSI/Central Universities/AICTE recognized financial/Economic Institutions/recognized National Management Institutes/Foreign Universities and Institutions of Excellence.
+3\.  In the case of Graduate Applicants, the applicant should have secured First Class Degree in Graduation."
+S008,S008-E001,Eligibility,gender,==,transgender,"1. The applicant should be Transgender.
+2. The applicant should be a resident of Kerala.
+3. Transgender students who have secured admission in merit seats in Government, Aided/Self-financing colleges are eligible under this scheme.
+4. Transgender students who secure admission for courses MBBS, Bachelor of Veterinary Science (BVSc), and BSc Agriculture in Government colleges are eligible.
+5. Transgender students pursuing Diploma level government-accredited courses are also eligible.
+6. Transgender students who have completed 18 years must submit a copy of their Transgender ID card.
+7. Those Transgender students who are below 18 years must submit a self-declaration statement duly certified by the Head of Institution/Parent."
+S008,S008-E002,Eligibility,state,==,Kerala,"1. The applicant should be Transgender.
+2. The applicant should be a resident of Kerala.
+3. Transgender students who have secured admission in merit seats in Government, Aided/Self-financing colleges are eligible under this scheme.
+4. Transgender students who secure admission for courses MBBS, Bachelor of Veterinary Science (BVSc), and BSc Agriculture in Government colleges are eligible.
+5. Transgender students pursuing Diploma level government-accredited courses are also eligible.
+6. Transgender students who have completed 18 years must submit a copy of their Transgender ID card.
+7. Those Transgender students who are below 18 years must submit a self-declaration statement duly certified by the Head of Institution/Parent."
+S008,S008-E003,Eligibility,admission_basis,==,Merit seat,"1. The applicant should be Transgender.
+2. The applicant should be a resident of Kerala.
+3. Transgender students who have secured admission in merit seats in Government, Aided/Self-financing colleges are eligible under this scheme.
+4. Transgender students who secure admission for courses MBBS, Bachelor of Veterinary Science (BVSc), and BSc Agriculture in Government colleges are eligible.
+5. Transgender students pursuing Diploma level government-accredited courses are also eligible.
+6. Transgender students who have completed 18 years must submit a copy of their Transgender ID card.
+7. Those Transgender students who are below 18 years must submit a self-declaration statement duly certified by the Head of Institution/Parent."
+S008,S008-E004,Eligibility,institution_type,IN,"Government,Aided,Self-financing colleges","1. The applicant should be Transgender.
+2. The applicant should be a resident of Kerala.
+3. Transgender students who have secured admission in merit seats in Government, Aided/Self-financing colleges are eligible under this scheme.
+4. Transgender students who secure admission for courses MBBS, Bachelor of Veterinary Science (BVSc), and BSc Agriculture in Government colleges are eligible.
+5. Transgender students pursuing Diploma level government-accredited courses are also eligible.
+6. Transgender students who have completed 18 years must submit a copy of their Transgender ID card.
+7. Those Transgender students who are below 18 years must submit a self-declaration statement duly certified by the Head of Institution/Parent."
+S008,S008-E005,Eligibility,course_level,IN,"Degree professional,Diploma government-accredited","1. The applicant should be Transgender.
+2. The applicant should be a resident of Kerala.
+3. Transgender students who have secured admission in merit seats in Government, Aided/Self-financing colleges are eligible under this scheme.
+4. Transgender students who secure admission for courses MBBS, Bachelor of Veterinary Science (BVSc), and BSc Agriculture in Government colleges are eligible.
+5. Transgender students pursuing Diploma level government-accredited courses are also eligible.
+6. Transgender students who have completed 18 years must submit a copy of their Transgender ID card.
+7. Those Transgender students who are below 18 years must submit a self-declaration statement duly certified by the Head of Institution/Parent."
+S008,S008-E006,Eligibility,age_condition,IN,"18+ with Transgender ID,below 18 with certified self-declaration","1. The applicant should be Transgender.
+2. The applicant should be a resident of Kerala.
+3. Transgender students who have secured admission in merit seats in Government, Aided/Self-financing colleges are eligible under this scheme.
+4. Transgender students who secure admission for courses MBBS, Bachelor of Veterinary Science (BVSc), and BSc Agriculture in Government colleges are eligible.
+5. Transgender students pursuing Diploma level government-accredited courses are also eligible.
+6. Transgender students who have completed 18 years must submit a copy of their Transgender ID card.
+7. Those Transgender students who are below 18 years must submit a self-declaration statement duly certified by the Head of Institution/Parent."
+S009,S009-E001,Eligibility,gender,==,female,"1. The student must have secured 60% or more marks in the 12th standard.
+2. The girl must reside in a rural area and possess a ""Gaon Ki Beti"" (Daughter of the Village) certificate.
+3. She must be enrolled in a recognized institution for higher education."
+S009,S009-E002,Eligibility,class12_marks,>=,60%,"1. The student must have secured 60% or more marks in the 12th standard.
+2. The girl must reside in a rural area and possess a ""Gaon Ki Beti"" (Daughter of the Village) certificate.
+3. She must be enrolled in a recognized institution for higher education."
+S009,S009-E003,Eligibility,residence_type,==,Rural,"1. The student must have secured 60% or more marks in the 12th standard.
+2. The girl must reside in a rural area and possess a ""Gaon Ki Beti"" (Daughter of the Village) certificate.
+3. She must be enrolled in a recognized institution for higher education."
+S009,S009-E004,Eligibility,certificate,==,Gaon Ki Beti,"1. The student must have secured 60% or more marks in the 12th standard.
+2. The girl must reside in a rural area and possess a ""Gaon Ki Beti"" (Daughter of the Village) certificate.
+3. She must be enrolled in a recognized institution for higher education."
+S009,S009-E005,Eligibility,education_level,==,Higher education,"1. The student must have secured 60% or more marks in the 12th standard.
+2. The girl must reside in a rural area and possess a ""Gaon Ki Beti"" (Daughter of the Village) certificate.
+3. She must be enrolled in a recognized institution for higher education."
+S009,S009-E006,Eligibility,institution_type,==,Recognized institution,"1. The student must have secured 60% or more marks in the 12th standard.
+2. The girl must reside in a rural area and possess a ""Gaon Ki Beti"" (Daughter of the Village) certificate.
+3. She must be enrolled in a recognized institution for higher education."
+S010,S010-E001,Eligibility,gender,==,female,"1. The applicant should be a girl.
+2. The applicant should be a student.
+3. The applicant should be studying in class VIII(8) in Government School of the UT of Dadra & Nagar Haveli and Daman & Diu."
+S010,S010-E002,Eligibility,student_status,==,Student,"1. The applicant should be a girl.
+2. The applicant should be a student.
+3. The applicant should be studying in class VIII(8) in Government School of the UT of Dadra & Nagar Haveli and Daman & Diu."
+S010,S010-E003,Eligibility,education_level,==,Class VIII,"1. The applicant should be a girl.
+2. The applicant should be a student.
+3. The applicant should be studying in class VIII(8) in Government School of the UT of Dadra & Nagar Haveli and Daman & Diu."
+S010,S010-E004,Eligibility,school_type,==,Government school,"1. The applicant should be a girl.
+2. The applicant should be a student.
+3. The applicant should be studying in class VIII(8) in Government School of the UT of Dadra & Nagar Haveli and Daman & Diu."
+S010,S010-E005,Eligibility,state,==,DNH & DD,"1. The applicant should be a girl.
+2. The applicant should be a student.
+3. The applicant should be studying in class VIII(8) in Government School of the UT of Dadra & Nagar Haveli and Daman & Diu."
+S010,S010-E006,Eligibility,previous_benefit,==,Not availed before,"1. The applicant should be a girl.
+2. The applicant should be a student.
+3. The applicant should be studying in class VIII(8) in Government School of the UT of Dadra & Nagar Haveli and Daman & Diu."
+S011,S011-E001,Eligibility,gender,==,female,"1. The girl student should belong to the tribal class of Rajasthan.
+2. The girl student should be regularly studying general education in a private/government college.
+3. The parent/guardian/guardian/husband of the student should not be an income taxpayer.
+4. After passing the board examination, there should not be any gap in the continuous study of the student applying for the scheme.
+5. The student who is studying by living in a hostel run by the government. They will not be entitled to benefit under the said scheme.
+6. Must have Vaidya Bhamashah card and Aadhaar card.
+7. The girl student should be a native of Rajasthan."
+S011,S011-E002,Eligibility,social_category,==,Tribal,"1. The girl student should belong to the tribal class of Rajasthan.
+2. The girl student should be regularly studying general education in a private/government college.
+3. The parent/guardian/guardian/husband of the student should not be an income taxpayer.
+4. After passing the board examination, there should not be any gap in the continuous study of the student applying for the scheme.
+5. The student who is studying by living in a hostel run by the government. They will not be entitled to benefit under the said scheme.
+6. Must have Vaidya Bhamashah card and Aadhaar card.
+7. The girl student should be a native of Rajasthan."
+S011,S011-E003,Eligibility,state,==,Rajasthan,"1. The girl student should belong to the tribal class of Rajasthan.
+2. The girl student should be regularly studying general education in a private/government college.
+3. The parent/guardian/guardian/husband of the student should not be an income taxpayer.
+4. After passing the board examination, there should not be any gap in the continuous study of the student applying for the scheme.
+5. The student who is studying by living in a hostel run by the government. They will not be entitled to benefit under the said scheme.
+6. Must have Vaidya Bhamashah card and Aadhaar card.
+7. The girl student should be a native of Rajasthan."
+S011,S011-E004,Eligibility,student_status,==,Regular student,"1. The girl student should belong to the tribal class of Rajasthan.
+2. The girl student should be regularly studying general education in a private/government college.
+3. The parent/guardian/guardian/husband of the student should not be an income taxpayer.
+4. After passing the board examination, there should not be any gap in the continuous study of the student applying for the scheme.
+5. The student who is studying by living in a hostel run by the government. They will not be entitled to benefit under the said scheme.
+6. Must have Vaidya Bhamashah card and Aadhaar card.
+7. The girl student should be a native of Rajasthan."
+S011,S011-E005,Eligibility,education_level,==,College level,"1. The girl student should belong to the tribal class of Rajasthan.
+2. The girl student should be regularly studying general education in a private/government college.
+3. The parent/guardian/guardian/husband of the student should not be an income taxpayer.
+4. After passing the board examination, there should not be any gap in the continuous study of the student applying for the scheme.
+5. The student who is studying by living in a hostel run by the government. They will not be entitled to benefit under the said scheme.
+6. Must have Vaidya Bhamashah card and Aadhaar card.
+7. The girl student should be a native of Rajasthan."
+S011,S011-E006,Eligibility,parent_income_taxpayer,==,No,"1. The girl student should belong to the tribal class of Rajasthan.
+2. The girl student should be regularly studying general education in a private/government college.
+3. The parent/guardian/guardian/husband of the student should not be an income taxpayer.
+4. After passing the board examination, there should not be any gap in the continuous study of the student applying for the scheme.
+5. The student who is studying by living in a hostel run by the government. They will not be entitled to benefit under the said scheme.
+6. Must have Vaidya Bhamashah card and Aadhaar card.
+7. The girl student should be a native of Rajasthan."
+S011,S011-E007,Eligibility,study_gap,==,No gap,"1. The girl student should belong to the tribal class of Rajasthan.
+2. The girl student should be regularly studying general education in a private/government college.
+3. The parent/guardian/guardian/husband of the student should not be an income taxpayer.
+4. After passing the board examination, there should not be any gap in the continuous study of the student applying for the scheme.
+5. The student who is studying by living in a hostel run by the government. They will not be entitled to benefit under the said scheme.
+6. Must have Vaidya Bhamashah card and Aadhaar card.
+7. The girl student should be a native of Rajasthan."
+S011,S011-E008,Eligibility,government_hostel_resident,==,No,"1. The girl student should belong to the tribal class of Rajasthan.
+2. The girl student should be regularly studying general education in a private/government college.
+3. The parent/guardian/guardian/husband of the student should not be an income taxpayer.
+4. After passing the board examination, there should not be any gap in the continuous study of the student applying for the scheme.
+5. The student who is studying by living in a hostel run by the government. They will not be entitled to benefit under the said scheme.
+6. Must have Vaidya Bhamashah card and Aadhaar card.
+7. The girl student should be a native of Rajasthan."
+S011,S011-E009,Eligibility,required_cards,==,Vaidya Bhamashah and Aadhaar,"1. The girl student should belong to the tribal class of Rajasthan.
+2. The girl student should be regularly studying general education in a private/government college.
+3. The parent/guardian/guardian/husband of the student should not be an income taxpayer.
+4. After passing the board examination, there should not be any gap in the continuous study of the student applying for the scheme.
+5. The student who is studying by living in a hostel run by the government. They will not be entitled to benefit under the said scheme.
+6. Must have Vaidya Bhamashah card and Aadhaar card.
+7. The girl student should be a native of Rajasthan."
+S012,S012-E001,Eligibility,state,==,Jharkhand,"1. The applicant should be a resident of Jharkhand state.
+2. The student should have passed class 10th from any recognized school in the state of Jharkhand **or** the student should possess a local residence certificate of Jharkhand.
+3. The student must meet the exam's eligibility criteria for coaching under this scheme. For exams requiring Class 12th qualification, Class 11th students at the time of application are also eligible.
+4. The student's annual family income should be less than ₹8,00,000/- **or** the student should be covered under the National/State Food Security Scheme.
+5. An applicant who has already received similar benefits from another department is not eligible for dual benefits.
+6. The student can avail the benefit only once under this scheme.
+7. ﻿"
+S012,S012-E002,Eligibility,exam_eligibility,==,Meets relevant exam criteria,"1. The applicant should be a resident of Jharkhand state.
+2. The student should have passed class 10th from any recognized school in the state of Jharkhand **or** the student should possess a local residence certificate of Jharkhand.
+3. The student must meet the exam's eligibility criteria for coaching under this scheme. For exams requiring Class 12th qualification, Class 11th students at the time of application are also eligible.
+4. The student's annual family income should be less than ₹8,00,000/- **or** the student should be covered under the National/State Food Security Scheme.
+5. An applicant who has already received similar benefits from another department is not eligible for dual benefits.
+6. The student can avail the benefit only once under this scheme.
+7. ﻿"
+S012,S012-E003,Eligibility,other_similar_benefit,==,Not received,"1. The applicant should be a resident of Jharkhand state.
+2. The student should have passed class 10th from any recognized school in the state of Jharkhand **or** the student should possess a local residence certificate of Jharkhand.
+3. The student must meet the exam's eligibility criteria for coaching under this scheme. For exams requiring Class 12th qualification, Class 11th students at the time of application are also eligible.
+4. The student's annual family income should be less than ₹8,00,000/- **or** the student should be covered under the National/State Food Security Scheme.
+5. An applicant who has already received similar benefits from another department is not eligible for dual benefits.
+6. The student can avail the benefit only once under this scheme.
+7. ﻿"
+S012,S012-E004,Eligibility,benefit_count,<=,Once,"1. The applicant should be a resident of Jharkhand state.
+2. The student should have passed class 10th from any recognized school in the state of Jharkhand **or** the student should possess a local residence certificate of Jharkhand.
+3. The student must meet the exam's eligibility criteria for coaching under this scheme. For exams requiring Class 12th qualification, Class 11th students at the time of application are also eligible.
+4. The student's annual family income should be less than ₹8,00,000/- **or** the student should be covered under the National/State Food Security Scheme.
+5. An applicant who has already received similar benefits from another department is not eligible for dual benefits.
+6. The student can avail the benefit only once under this scheme.
+7. ﻿"
+S012,S012-E005,Eligibility,attendance,>=,75%,"1. The applicant should be a resident of Jharkhand state.
+2. The student should have passed class 10th from any recognized school in the state of Jharkhand **or** the student should possess a local residence certificate of Jharkhand.
+3. The student must meet the exam's eligibility criteria for coaching under this scheme. For exams requiring Class 12th qualification, Class 11th students at the time of application are also eligible.
+4. The student's annual family income should be less than ₹8,00,000/- **or** the student should be covered under the National/State Food Security Scheme.
+5. An applicant who has already received similar benefits from another department is not eligible for dual benefits.
+6. The student can avail the benefit only once under this scheme.
+7. ﻿"
+S013,S013-E001,Eligibility,state,==,Bihar,"1. The applicant should be a permanent resident of Bihar.
+2. The applicant should belong to the Scheduled Caste or Scheduled Tribe category.
+3. The applicant should have passed the preliminary examination of the Civil Services Competitive Examination conducted by either the Bihar Public Service Commission, Patna, or the Union Public Service Commission, New Delhi.
+4. The benefit of this scheme is available to each candidate only once.
+5. The applicant should not have received the same incentive from any other sources previously."
+S013,S013-E002,Eligibility,social_category,IN,"SC,ST","1. The applicant should be a permanent resident of Bihar.
+2. The applicant should belong to the Scheduled Caste or Scheduled Tribe category.
+3. The applicant should have passed the preliminary examination of the Civil Services Competitive Examination conducted by either the Bihar Public Service Commission, Patna, or the Union Public Service Commission, New Delhi.
+4. The benefit of this scheme is available to each candidate only once.
+5. The applicant should not have received the same incentive from any other sources previously."
+S013,S013-E003,Eligibility,prelim_exam_passed,IN,"BPSC,UPSC","1. The applicant should be a permanent resident of Bihar.
+2. The applicant should belong to the Scheduled Caste or Scheduled Tribe category.
+3. The applicant should have passed the preliminary examination of the Civil Services Competitive Examination conducted by either the Bihar Public Service Commission, Patna, or the Union Public Service Commission, New Delhi.
+4. The benefit of this scheme is available to each candidate only once.
+5. The applicant should not have received the same incentive from any other sources previously."
+S013,S013-E004,Eligibility,benefit_count,<=,Once,"1. The applicant should be a permanent resident of Bihar.
+2. The applicant should belong to the Scheduled Caste or Scheduled Tribe category.
+3. The applicant should have passed the preliminary examination of the Civil Services Competitive Examination conducted by either the Bihar Public Service Commission, Patna, or the Union Public Service Commission, New Delhi.
+4. The benefit of this scheme is available to each candidate only once.
+5. The applicant should not have received the same incentive from any other sources previously."
+S013,S013-E005,Eligibility,same_incentive_received_before,==,No,"1. The applicant should be a permanent resident of Bihar.
+2. The applicant should belong to the Scheduled Caste or Scheduled Tribe category.
+3. The applicant should have passed the preliminary examination of the Civil Services Competitive Examination conducted by either the Bihar Public Service Commission, Patna, or the Union Public Service Commission, New Delhi.
+4. The benefit of this scheme is available to each candidate only once.
+5. The applicant should not have received the same incentive from any other sources previously."
+S013,S013-E006,Eligibility,government_employed,==,No,"1. The applicant should be a permanent resident of Bihar.
+2. The applicant should belong to the Scheduled Caste or Scheduled Tribe category.
+3. The applicant should have passed the preliminary examination of the Civil Services Competitive Examination conducted by either the Bihar Public Service Commission, Patna, or the Union Public Service Commission, New Delhi.
+4. The benefit of this scheme is available to each candidate only once.
+5. The applicant should not have received the same incentive from any other sources previously."
+S014,S014-E001,Eligibility,state,==,Andhra Pradesh,"1. The student should be a native of Andhra Pradesh.
+2. The student should be visually challenged, hearing challenged, speech impaired, and orthopedically challenged.
+3. The student should be pursuing postgraduate or professional courses.
+4. The laptop is sanctioned once in the lifetime of the student."
+S014,S014-E002,Eligibility,disability_status,IN,"Visual,Hearing,Speech,Orthopedic","1. The student should be a native of Andhra Pradesh.
+2. The student should be visually challenged, hearing challenged, speech impaired, and orthopedically challenged.
+3. The student should be pursuing postgraduate or professional courses.
+4. The laptop is sanctioned once in the lifetime of the student."
+S014,S014-E003,Eligibility,education_level,IN,"Postgraduate,Professional courses","1. The student should be a native of Andhra Pradesh.
+2. The student should be visually challenged, hearing challenged, speech impaired, and orthopedically challenged.
+3. The student should be pursuing postgraduate or professional courses.
+4. The laptop is sanctioned once in the lifetime of the student."
+S014,S014-E004,Eligibility,benefit_count,<=,Once in lifetime,"1. The student should be a native of Andhra Pradesh.
+2. The student should be visually challenged, hearing challenged, speech impaired, and orthopedically challenged.
+3. The student should be pursuing postgraduate or professional courses.
+4. The laptop is sanctioned once in the lifetime of the student."
+S015,S015-E001,Eligibility,student_status,==,Student,"- The applicant should be a Student.
+- The applicant should be from a Scheduled Caste.
+- The annual income of the family of the applicant should not exceed ₹2,50,000/-.
+- The applicant should be enrolled in a recognized post-matriculation/post-secondary course in India.
+- The applicant should not be availing of any other scholarship for the same course from any other source."
+S015,S015-E002,Eligibility,social_category,==,SC,"- The applicant should be a Student.
+- The applicant should be from a Scheduled Caste.
+- The annual income of the family of the applicant should not exceed ₹2,50,000/-.
+- The applicant should be enrolled in a recognized post-matriculation/post-secondary course in India.
+- The applicant should not be availing of any other scholarship for the same course from any other source."
+S015,S015-E003,Eligibility,annual_family_income,<=,250000,"- The applicant should be a Student.
+- The applicant should be from a Scheduled Caste.
+- The annual income of the family of the applicant should not exceed ₹2,50,000/-.
+- The applicant should be enrolled in a recognized post-matriculation/post-secondary course in India.
+- The applicant should not be availing of any other scholarship for the same course from any other source."
+S015,S015-E004,Eligibility,education_level,==,Post-matric/post-secondary recognized course in India,"- The applicant should be a Student.
+- The applicant should be from a Scheduled Caste.
+- The annual income of the family of the applicant should not exceed ₹2,50,000/-.
+- The applicant should be enrolled in a recognized post-matriculation/post-secondary course in India.
+- The applicant should not be availing of any other scholarship for the same course from any other source."
+S015,S015-E005,Eligibility,other_scholarship,==,Not availing for same course,"- The applicant should be a Student.
+- The applicant should be from a Scheduled Caste.
+- The annual income of the family of the applicant should not exceed ₹2,50,000/-.
+- The applicant should be enrolled in a recognized post-matriculation/post-secondary course in India.
+- The applicant should not be availing of any other scholarship for the same course from any other source."
+S015,S015-E006,Eligibility,repeat_same_stage,==,No,"- The applicant should be a Student.
+- The applicant should be from a Scheduled Caste.
+- The annual income of the family of the applicant should not exceed ₹2,50,000/-.
+- The applicant should be enrolled in a recognized post-matriculation/post-secondary course in India.
+- The applicant should not be availing of any other scholarship for the same course from any other source."
+S015,S015-E007,Eligibility,dual_professional_course,!=,Not eligible except stated exceptions,"- The applicant should be a Student.
+- The applicant should be from a Scheduled Caste.
+- The annual income of the family of the applicant should not exceed ₹2,50,000/-.
+- The applicant should be enrolled in a recognized post-matriculation/post-secondary course in India.
+- The applicant should not be availing of any other scholarship for the same course from any other source."
+S016,S016-E001,Eligibility,loan_type,==,IBA Model Education Loan Scheme,"1. Education Loans taken under the IBA Model Education Loan Scheme.
+2. The benefit of the Scheme is applicable to students belonging to economically weaker sections having gross parental/ family income up to ₹4.5 lakhs per annum from all sources.
+3. Students enrolled in professional/technical courses only from NAAC accredited Institutions or professional/technical programmes accredited by NBA or Institutions of National Importance or Central Funded Technical Institutions (CFTIs). Those Professional Institutions/programmes, which do not come under the ambit of NAAC or NBA, would require approval of the respective regulatory body.
+4. Admissible only once either for Undergraduate or Post Graduate degree courses. This is also admissible for Integrated Courses (Graduate + Post Graduate).
+5. Students availing any other Central /State Government Scholarship or Fee reimbursement shall not be eligible for availing benefits under the CSIS Scheme.
+6. Interest Subsidy under this Scheme shall not be available to those students who discontinue their course midstream, or who are expelled from the Institution on disciplinary or academic grounds. However, the interest subsidy would be available only if discontinuation is due to medical grounds for which necessary documentation to the satisfaction of the Head of an educational institution needs to be provided."
+S016,S016-E002,Eligibility,annual_family_income,<=,450000,"1. Education Loans taken under the IBA Model Education Loan Scheme.
+2. The benefit of the Scheme is applicable to students belonging to economically weaker sections having gross parental/ family income up to ₹4.5 lakhs per annum from all sources.
+3. Students enrolled in professional/technical courses only from NAAC accredited Institutions or professional/technical programmes accredited by NBA or Institutions of National Importance or Central Funded Technical Institutions (CFTIs). Those Professional Institutions/programmes, which do not come under the ambit of NAAC or NBA, would require approval of the respective regulatory body.
+4. Admissible only once either for Undergraduate or Post Graduate degree courses. This is also admissible for Integrated Courses (Graduate + Post Graduate).
+5. Students availing any other Central /State Government Scholarship or Fee reimbursement shall not be eligible for availing benefits under the CSIS Scheme.
+6. Interest Subsidy under this Scheme shall not be available to those students who discontinue their course midstream, or who are expelled from the Institution on disciplinary or academic grounds. However, the interest subsidy would be available only if discontinuation is due to medical grounds for which necessary documentation to the satisfaction of the Head of an educational institution needs to be provided."
+S016,S016-E003,Eligibility,institution_programme,IN,"NAAC accredited,NBA accredited professional/technical,Institutions of National Importance,CFTIs,other regulatory approval where applicable","1. Education Loans taken under the IBA Model Education Loan Scheme.
+2. The benefit of the Scheme is applicable to students belonging to economically weaker sections having gross parental/ family income up to ₹4.5 lakhs per annum from all sources.
+3. Students enrolled in professional/technical courses only from NAAC accredited Institutions or professional/technical programmes accredited by NBA or Institutions of National Importance or Central Funded Technical Institutions (CFTIs). Those Professional Institutions/programmes, which do not come under the ambit of NAAC or NBA, would require approval of the respective regulatory body.
+4. Admissible only once either for Undergraduate or Post Graduate degree courses. This is also admissible for Integrated Courses (Graduate + Post Graduate).
+5. Students availing any other Central /State Government Scholarship or Fee reimbursement shall not be eligible for availing benefits under the CSIS Scheme.
+6. Interest Subsidy under this Scheme shall not be available to those students who discontinue their course midstream, or who are expelled from the Institution on disciplinary or academic grounds. However, the interest subsidy would be available only if discontinuation is due to medical grounds for which necessary documentation to the satisfaction of the Head of an educational institution needs to be provided."
+S016,S016-E004,Eligibility,course_level,IN,"Undergraduate,Postgraduate,Integrated","1. Education Loans taken under the IBA Model Education Loan Scheme.
+2. The benefit of the Scheme is applicable to students belonging to economically weaker sections having gross parental/ family income up to ₹4.5 lakhs per annum from all sources.
+3. Students enrolled in professional/technical courses only from NAAC accredited Institutions or professional/technical programmes accredited by NBA or Institutions of National Importance or Central Funded Technical Institutions (CFTIs). Those Professional Institutions/programmes, which do not come under the ambit of NAAC or NBA, would require approval of the respective regulatory body.
+4. Admissible only once either for Undergraduate or Post Graduate degree courses. This is also admissible for Integrated Courses (Graduate + Post Graduate).
+5. Students availing any other Central /State Government Scholarship or Fee reimbursement shall not be eligible for availing benefits under the CSIS Scheme.
+6. Interest Subsidy under this Scheme shall not be available to those students who discontinue their course midstream, or who are expelled from the Institution on disciplinary or academic grounds. However, the interest subsidy would be available only if discontinuation is due to medical grounds for which necessary documentation to the satisfaction of the Head of an educational institution needs to be provided."
+S016,S016-E005,Eligibility,other_government_scholarship,==,Not availing,"1. Education Loans taken under the IBA Model Education Loan Scheme.
+2. The benefit of the Scheme is applicable to students belonging to economically weaker sections having gross parental/ family income up to ₹4.5 lakhs per annum from all sources.
+3. Students enrolled in professional/technical courses only from NAAC accredited Institutions or professional/technical programmes accredited by NBA or Institutions of National Importance or Central Funded Technical Institutions (CFTIs). Those Professional Institutions/programmes, which do not come under the ambit of NAAC or NBA, would require approval of the respective regulatory body.
+4. Admissible only once either for Undergraduate or Post Graduate degree courses. This is also admissible for Integrated Courses (Graduate + Post Graduate).
+5. Students availing any other Central /State Government Scholarship or Fee reimbursement shall not be eligible for availing benefits under the CSIS Scheme.
+6. Interest Subsidy under this Scheme shall not be available to those students who discontinue their course midstream, or who are expelled from the Institution on disciplinary or academic grounds. However, the interest subsidy would be available only if discontinuation is due to medical grounds for which necessary documentation to the satisfaction of the Head of an educational institution needs to be provided."
+S016,S016-E006,Eligibility,discontinuation_reason,!=,Discontinued/expelled except specified medical case,"1. Education Loans taken under the IBA Model Education Loan Scheme.
+2. The benefit of the Scheme is applicable to students belonging to economically weaker sections having gross parental/ family income up to ₹4.5 lakhs per annum from all sources.
+3. Students enrolled in professional/technical courses only from NAAC accredited Institutions or professional/technical programmes accredited by NBA or Institutions of National Importance or Central Funded Technical Institutions (CFTIs). Those Professional Institutions/programmes, which do not come under the ambit of NAAC or NBA, would require approval of the respective regulatory body.
+4. Admissible only once either for Undergraduate or Post Graduate degree courses. This is also admissible for Integrated Courses (Graduate + Post Graduate).
+5. Students availing any other Central /State Government Scholarship or Fee reimbursement shall not be eligible for availing benefits under the CSIS Scheme.
+6. Interest Subsidy under this Scheme shall not be available to those students who discontinue their course midstream, or who are expelled from the Institution on disciplinary or academic grounds. However, the interest subsidy would be available only if discontinuation is due to medical grounds for which necessary documentation to the satisfaction of the Head of an educational institution needs to be provided."
+S016,S016-E007,Eligibility,benefit_count,<=,Once for UG or PG,"1. Education Loans taken under the IBA Model Education Loan Scheme.
+2. The benefit of the Scheme is applicable to students belonging to economically weaker sections having gross parental/ family income up to ₹4.5 lakhs per annum from all sources.
+3. Students enrolled in professional/technical courses only from NAAC accredited Institutions or professional/technical programmes accredited by NBA or Institutions of National Importance or Central Funded Technical Institutions (CFTIs). Those Professional Institutions/programmes, which do not come under the ambit of NAAC or NBA, would require approval of the respective regulatory body.
+4. Admissible only once either for Undergraduate or Post Graduate degree courses. This is also admissible for Integrated Courses (Graduate + Post Graduate).
+5. Students availing any other Central /State Government Scholarship or Fee reimbursement shall not be eligible for availing benefits under the CSIS Scheme.
+6. Interest Subsidy under this Scheme shall not be available to those students who discontinue their course midstream, or who are expelled from the Institution on disciplinary or academic grounds. However, the interest subsidy would be available only if discontinuation is due to medical grounds for which necessary documentation to the satisfaction of the Head of an educational institution needs to be provided."
+S017,S017-E001,Eligibility,farmer_status,==,Farmer / tenant farmer / sharecropper,"All farmers including tenant farmers and sharecroppers growing notified crops in notified areas are covered, subject to insurable interest, valid land ownership or tenure evidence, application within the prescribed timeframe, and no duplicate compensation for the same crop loss."
+S017,S017-E002,Eligibility,crop_notified,==,Notified crop,"All farmers including tenant farmers and sharecroppers growing notified crops in notified areas are covered, subject to insurable interest, valid land ownership or tenure evidence, application within the prescribed timeframe, and no duplicate compensation for the same crop loss."
+S017,S017-E003,Eligibility,area_notified,==,Notified area,"All farmers including tenant farmers and sharecroppers growing notified crops in notified areas are covered, subject to insurable interest, valid land ownership or tenure evidence, application within the prescribed timeframe, and no duplicate compensation for the same crop loss."
+S017,S017-E004,Eligibility,insurable_interest,==,Yes,"All farmers including tenant farmers and sharecroppers growing notified crops in notified areas are covered, subject to insurable interest, valid land ownership or tenure evidence, application within the prescribed timeframe, and no duplicate compensation for the same crop loss."
+S017,S017-E005,Eligibility,land_or_tenure_proof,==,Valid authenticated land ownership certificate or land tenure agreement,"All farmers including tenant farmers and sharecroppers growing notified crops in notified areas are covered, subject to insurable interest, valid land ownership or tenure evidence, application within the prescribed timeframe, and no duplicate compensation for the same crop loss."
+S017,S017-E006,Eligibility,application_time,==,Within prescribed timeframe,"All farmers including tenant farmers and sharecroppers growing notified crops in notified areas are covered, subject to insurable interest, valid land ownership or tenure evidence, application within the prescribed timeframe, and no duplicate compensation for the same crop loss."
+S017,S017-E007,Eligibility,duplicate_compensation,==,No compensation received for same crop loss from another source,"All farmers including tenant farmers and sharecroppers growing notified crops in notified areas are covered, subject to insurable interest, valid land ownership or tenure evidence, application within the prescribed timeframe, and no duplicate compensation for the same crop loss."
+S018,S018-E001,Eligibility,state,==,Telangana,
+S018,S018-E002,Eligibility,farmer_status,==,Resident farmer,
+S018,S018-E003,Eligibility,age,RANGE,18-60,
+S019,S019-E001,Eligibility,state,==,West Bengal,"For income support, the applicant must be a West Bengal resident, own cultivable land up to 2 acres, and be actively engaged in farming. For death/disability benefit, the farmer must be aged 18 to 60; death claims are made by the legal heir and require enrollment at death."
+S019,S019-E002,Eligibility,land_holding,<=,2 acres cultivable land,"For income support, the applicant must be a West Bengal resident, own cultivable land up to 2 acres, and be actively engaged in farming. For death/disability benefit, the farmer must be aged 18 to 60; death claims are made by the legal heir and require enrollment at death."
+S019,S019-E003,Eligibility,farmer_status,==,Actively engaged in farming,"For income support, the applicant must be a West Bengal resident, own cultivable land up to 2 acres, and be actively engaged in farming. For death/disability benefit, the farmer must be aged 18 to 60; death claims are made by the legal heir and require enrollment at death."
+S019,S019-E004,Eligibility,age_death_disability,RANGE,18-60,"For income support, the applicant must be a West Bengal resident, own cultivable land up to 2 acres, and be actively engaged in farming. For death/disability benefit, the farmer must be aged 18 to 60; death claims are made by the legal heir and require enrollment at death."
+S019,S019-E005,Eligibility,legal_heir,==,Yes for death benefit,"For income support, the applicant must be a West Bengal resident, own cultivable land up to 2 acres, and be actively engaged in farming. For death/disability benefit, the farmer must be aged 18 to 60; death claims are made by the legal heir and require enrollment at death."
+S019,S019-E006,Eligibility,enrolled_at_death,==,Yes for death benefit,"For income support, the applicant must be a West Bengal resident, own cultivable land up to 2 acres, and be actively engaged in farming. For death/disability benefit, the farmer must be aged 18 to 60; death claims are made by the legal heir and require enrollment at death."
+S020,S020-E001,Eligibility,gender,==,female,"The applicant must be a Scheduled Tribe woman, only one person per family can receive the benefit, and priority is given to ST widows or abandoned women. The goat unit must be purchased within 90 days of pre-approval."
+S020,S020-E002,Eligibility,social_category,==,Scheduled Tribe,"The applicant must be a Scheduled Tribe woman, only one person per family can receive the benefit, and priority is given to ST widows or abandoned women. The goat unit must be purchased within 90 days of pre-approval."
+S020,S020-E003,Eligibility,family_beneficiaries,==,One person per family,"The applicant must be a Scheduled Tribe woman, only one person per family can receive the benefit, and priority is given to ST widows or abandoned women. The goat unit must be purchased within 90 days of pre-approval."
+S020,S020-E004,Eligibility,state,==,Gujarat,"The applicant must be a Scheduled Tribe woman, only one person per family can receive the benefit, and priority is given to ST widows or abandoned women. The goat unit must be purchased within 90 days of pre-approval."
+S020,S020-E005,Eligibility,goat_unit,==,10 female goats + 1 male goat,"The applicant must be a Scheduled Tribe woman, only one person per family can receive the benefit, and priority is given to ST widows or abandoned women. The goat unit must be purchased within 90 days of pre-approval."
+S020,S020-E006,Eligibility,purchase_deadline,<=,90 days after pre-approval,"The applicant must be a Scheduled Tribe woman, only one person per family can receive the benefit, and priority is given to ST widows or abandoned women. The goat unit must be purchased within 90 days of pre-approval."
+S021,S021-E001,Eligibility,state,==,Gujarat,
+S021,S021-E002,Eligibility,target_group,IN,"Women farmers,male farmers,youth",
+S022,S022-E001,Eligibility,applicant_entity,IN,"State Livestock Agencies,State Government Animal Husbandry Department",Eligible entities listed in the supplied details are State Livestock Agencies and State Government Animal Husbandry Departments.
+S023,S023-E001,Eligibility,gender,==,female,"The student should be a native of Rajasthan and study in a school, college or university recognized by the state or state government. The girl student should not have failed in the last year, and the incentive is not payable if she leaves the institution during the class session."
+S023,S023-E002,Eligibility,state,==,Rajasthan,"The student should be a native of Rajasthan and study in a school, college or university recognized by the state or state government. The girl student should not have failed in the last year, and the incentive is not payable if she leaves the institution during the class session."
+S023,S023-E003,Eligibility,institution_recognition,==,Recognized by state/state government,"The student should be a native of Rajasthan and study in a school, college or university recognized by the state or state government. The girl student should not have failed in the last year, and the incentive is not payable if she leaves the institution during the class session."
+S023,S023-E004,Eligibility,academic_progress,==,Not failed in last year,"The student should be a native of Rajasthan and study in a school, college or university recognized by the state or state government. The girl student should not have failed in the last year, and the incentive is not payable if she leaves the institution during the class session."
+S023,S023-E005,Eligibility,course,IN,"Senior Secondary Agriculture,Agricultural Graduation,Post Graduate Agriculture,PhD Agriculture","The student should be a native of Rajasthan and study in a school, college or university recognized by the state or state government. The girl student should not have failed in the last year, and the incentive is not payable if she leaves the institution during the class session."
+S023,S023-E006,Eligibility,mid_session_exit,==,No,"The student should be a native of Rajasthan and study in a school, college or university recognized by the state or state government. The girl student should not have failed in the last year, and the incentive is not payable if she leaves the institution during the class session."
+S024,S024-E001,Eligibility,state,==,Gujarat,The applicant must be a permanent Gujarat resident and owner of an eligible female calf born through artificial insemination by pure breeding in an indigenous cow. The calf must not be more than 11 months old on the application date.
+S024,S024-E002,Eligibility,calf_owner,==,Owner of eligible female calf,The applicant must be a permanent Gujarat resident and owner of an eligible female calf born through artificial insemination by pure breeding in an indigenous cow. The calf must not be more than 11 months old on the application date.
+S024,S024-E003,Eligibility,calf_sex,==,Female,The applicant must be a permanent Gujarat resident and owner of an eligible female calf born through artificial insemination by pure breeding in an indigenous cow. The calf must not be more than 11 months old on the application date.
+S024,S024-E004,Eligibility,birth_method,==,Artificial insemination by pure breeding,The applicant must be a permanent Gujarat resident and owner of an eligible female calf born through artificial insemination by pure breeding in an indigenous cow. The calf must not be more than 11 months old on the application date.
+S024,S024-E005,Eligibility,cow_breed,IN,Indigenous cow / Gir / Kankrej,The applicant must be a permanent Gujarat resident and owner of an eligible female calf born through artificial insemination by pure breeding in an indigenous cow. The calf must not be more than 11 months old on the application date.
+S024,S024-E006,Eligibility,calf_age,<=,11 months on application date,The applicant must be a permanent Gujarat resident and owner of an eligible female calf born through artificial insemination by pure breeding in an indigenous cow. The calf must not be more than 11 months old on the application date.
+S025,S025-E001,Eligibility,applicant_entity,==,Market Committee,Market Committees of all areas of Gujarat State are listed as eligible applicants.
+S025,S025-E002,Eligibility,state,==,Gujarat,Market Committees of all areas of Gujarat State are listed as eligible applicants.

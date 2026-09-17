@@ -1,0 +1,5 @@
+scheme_id,source_scheme_id,rule_id,attribute,operator,value,reason
+S012,S012,S012_R02,class10_origin_or_residence,or,Passed Class 10 from recognized Jharkhand school OR local residence certificate,Unsupported OR rule: S012_R02 | class10_origin_or_residence | Passed Class 10 from recognized Jharkhand school OR local residence certificate
+S012,S012,S012_R04,family_income,or,<800000 OR National/State Food Security Scheme,Unsupported OR rule: S012_R04 | family_income | <800000 OR National/State Food Security Scheme
+S018,S018,,,,,No Eligibility evidence found in RAG_Documents
+S021,S021,,,,,No Eligibility evidence found in RAG_Documents
